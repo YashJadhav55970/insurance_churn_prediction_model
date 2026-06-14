@@ -1,0 +1,99 @@
+import os
+from src.constants import *
+from dataclasses import dataclass
+from datetime import datetime
+
+TIMESTAMP: str = datetime.now().strftime("%m_%d_%Y_%H_%M_%S")
+
+@dataclass
+class TrainingPipelineConfig:
+    pipeline_name: str = PIPELINE_NAME
+    artifact_dir: str = os.path.join(ARTIFACT_DIR, TIMESTAMP)
+    timestamp: str = TIMESTAMP
+
+
+training_pipeline_config: TrainingPipelineConfig = TrainingPipelineConfig()
+
+@dataclass
+class DataIngestionConfig:
+    data_ingestion_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_INGESTION_DIR_NAME)
+    feature_store_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_FEATURE_STORE_DIR, FILE_NAME)
+    training_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_INGESTED_DIR, TRAIN_FILE_NAME)
+    testing_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_INGESTED_DIR, TEST_FILE_NAME)
+    train_test_split_ratio: float = DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO
+    collection_name:str = DATA_INGESTION_COLLECTION_NAME
+
+
+
+
+@dataclass
+class DataValidationConfig:
+    data_validation_dir:str = os.path.join(training_pipeline_config.artifact_dir , DATA_VALIDATION_DIR_NAME)
+    validation_report_file_path:str = os.path.join(data_validation_dir , DATA_VALIDATION_REPORT_FILE_NAME)
+
+    
+@dataclass
+class DataTransformationConfig:
+    data_transformation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_TRANSFORMATION_DIR_NAME)
+    transformed_train_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,
+                                                    TRAIN_FILE_NAME.replace("csv", "npy"))
+    transformed_test_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,
+                                                   TEST_FILE_NAME.replace("csv", "npy"))
+    transformed_object_file_path: str = os.path.join(data_transformation_dir,
+                                                     DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR,
+                                                     PREPROCSSING_OBJECT_FILE_NAME)
+    
+
+@dataclass
+class ModelTrainerConfig:
+    model_trainer_dir:str = os.path.join(training_pipeline_config.artifact_dir , MODEL_TRAINER_DIR_NAME)
+    trained_model_file_path:str = os.path.join(model_trainer_dir , MODEL_TRAINER_TRAINED_MODEL_DIR , MODEL_FILE_NAME)
+
+    expected_accuracy: float = MODEL_TRAINER_EXPECTED_SCORE
+    model_config_file_path:str = MODEL_TRAINER_MODEL_CONFIG_FILE_PATH
+
+    _model_boosting_type=MODEL_BOOSTING_TYPE
+    _model_colsample_bytree = MODEL_COLSAMPLE_BYTREE
+    _model_learning_rate = MODEL_LEARNING_RATE
+    _model_max_depth = MODEL_MAX_DEPTH
+    _model_min_child_samples = MODEL_MIN_CHILD_SAMPLES
+    _model_min_child_weight = MODEL_MIN_CHILD_WEIGHT
+    _model_min_split_gain = MODEL_MIN_SPLIT_GAIN
+    _model_n_estimator = MODEL_N_ESTIMATORS
+    _model_n_jobs = MODEL_N_JOBS
+    _model_num_leaves = MODEL_NUM_LEAVES
+    _model_model_objective = MODEL_OBJECTIVE
+    _model_random_state = MODEL_RANDOM_STATE
+    _model_reg_alpha = MODEL_REG_ALPHA
+    _model_reg_lambda = MODEL_REG_LAMBDA
+    _model_subsample = MODEL_SUBSAMPLE
+    _model_subsample_for_bin = MODEL_SUBSAMPLE_FOT_BIN
+    # _model_class_weight = MODEL_CLASS_WEIGHT
+
+
+@dataclass
+
+class ModelEvaluationConfig:
+    changed_threshold_score:float = MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE
+    bucket_name:str = MODEL_BUCKET_NAME
+    s3_model_key_path:str = MODEL_FILE_NAME
+
+
+
+@dataclass
+
+class ModelPusherConfig:
+    bucket_name:str = MODEL_BUCKET_NAME
+    s3_model_key_path:str = MODEL_FILE_NAME
+
+
+
+@dataclass
+class InsuranceConfig:
+    model_file_path:str = MODEL_FILE_NAME
+    model_bucket_name:str = MODEL_BUCKET_NAME
+
+
+
+
+    

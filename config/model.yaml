@@ -1,0 +1,27 @@
+model_selection:
+  model_name: LGBMClassifier
+  
+lgbm_params:
+  boosting_type: "gbdt"
+  colsample_bytree: 1.0
+  learning_rate: 0.5
+  max_depth: 10
+  min_child_samples: 20
+  min_child_weight: 0.0001
+  min_split_gain: 0.0
+  n_estimators: 200
+  n_jobs: -1
+  num_leaves: 500
+  objective: "binary"
+  random_state: 42
+  reg_alpha: 0.0
+  reg_lambda: 0.0
+  subsample: 0.1
+  subsample_for_bin: 200000
+
+
+
+
+
+
+

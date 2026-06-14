@@ -1,0 +1,1001 @@
+incident_severity,insured_hobbies,incident_type,collision_type,incident_state,authorities_contacted,property_claim,vehicle_claim,policy_annual_premium,insured_zip,policy_number,total_claim_amount,months_as_customer,injury_claim,age,insured_occupation,capital-gains,fraud_reported
+Major Damage,sleeping,Single Vehicle Collision,Side Collision,SC,Police,13020,52080,1406.91,466132,521585,71610,328,6510,48,craft-repair,53300,Y
+Minor Damage,reading,Vehicle Theft,?,VA,Police,780,3510,1197.22,468176,342868,5070,228,780,42,machine-op-inspct,0,Y
+Minor Damage,board-games,Multi-vehicle Collision,Rear Collision,NY,Police,3850,23100,1413.14,430632,687698,34650,134,7700,29,sales,35100,N
+Major Damage,board-games,Single Vehicle Collision,Front Collision,OH,Police,6340,50720,1415.74,608117,227811,63400,256,6340,41,armed-forces,48900,Y
+Minor Damage,board-games,Vehicle Theft,?,NY,,650,4550,1583.91,610706,367455,6500,228,1300,44,sales,66000,N
+Major Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,SC,Fire,6410,51280,1351.1,478456,104594,64100,256,6410,39,tech-support,0,Y
+Minor Damage,board-games,Multi-vehicle Collision,Front Collision,NY,Police,7150,50050,1333.35,441716,413978,78650,137,21450,34,prof-specialty,0,N
+Total Loss,base-jumping,Multi-vehicle Collision,Front Collision,VA,Police,9380,32830,1137.03,603195,429027,51590,165,9380,37,tech-support,0,N
+Total Loss,golf,Single Vehicle Collision,Front Collision,WV,Police,2770,22160,1442.99,601734,485665,27700,27,2770,33,other-service,0,N
+Total Loss,camping,Single Vehicle Collision,Rear Collision,NC,Other,4700,32900,1315.68,600983,636550,42300,212,4700,42,priv-house-serv,0,N
+Total Loss,dancing,Single Vehicle Collision,Front Collision,NY,Police,15820,63280,1253.12,462283,543610,87010,235,7910,42,exec-managerial,38400,N
+Major Damage,skydiving,Multi-vehicle Collision,Front Collision,SC,Fire,17680,79560,1137.16,615561,214618,114920,447,17680,61,exec-managerial,0,N
+Total Loss,reading,Single Vehicle Collision,Rear Collision,SC,Ambulance,9420,42390,1215.36,432220,842643,56520,60,4710,23,protective-serv,0,N
+Minor Damage,bungie-jumping,Parked Car,?,SC,,1120,5040,936.61,464652,626808,7280,121,1120,34,armed-forces,52800,N
+Total Loss,board-games,Single Vehicle Collision,Rear Collision,SC,Police,8400,33600,1301.13,476685,644081,46200,180,4200,38,machine-op-inspct,41300,Y
+Major Damage,movies,Multi-vehicle Collision,Side Collision,WV,Other,10520,42080,1131.4,458733,892874,63120,473,10520,58,transport-moving,55700,Y
+Major Damage,hiking,Multi-vehicle Collision,Rear Collision,NY,Other,5790,40530,1199.44,619884,558938,52110,70,5790,26,machine-op-inspct,63600,N
+Total Loss,reading,Single Vehicle Collision,Side Collision,WV,Police,7080,56640,708.64,470610,275265,77880,140,14160,31,machine-op-inspct,53500,N
+Total Loss,yachting,Single Vehicle Collision,Side Collision,NY,Other,13260,53040,1374.22,472135,921202,72930,160,6630,37,craft-repair,45500,N
+Major Damage,camping,Multi-vehicle Collision,Side Collision,VA,Police,6040,48320,1475.73,477670,143972,60400,196,6040,39,handlers-cleaners,57000,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,NY,Police,5240,41920,1187.96,618845,183430,47160,460,0,62,other-service,0,N
+Total Loss,skydiving,Multi-vehicle Collision,Side Collision,SC,Police,4730,33110,875.15,442479,431876,37840,217,0,41,machine-op-inspct,46700,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,SC,Ambulance,5960,47680,972.18,443920,285496,71520,370,17880,55,prof-specialty,72700,Y
+Total Loss,chess,Single Vehicle Collision,Front Collision,WV,Ambulance,16360,73620,1268.79,453148,115399,98160,413,8180,55,priv-house-serv,0,Y
+Minor Damage,kayaking,Single Vehicle Collision,Rear Collision,VA,Other,14160,56640,883.31,434733,736882,77880,237,7080,40,craft-repair,0,N
+Major Damage,polo,Multi-vehicle Collision,Rear Collision,OH,Other,11000,44000,1266.92,613982,699044,71500,8,16500,35,sales,0,Y
+Minor Damage,golf,Parked Car,?,PA,Police,820,6560,1322.1,436984,863236,9020,257,1640,43,prof-specialty,0,N
+Minor Damage,chess,Vehicle Theft,?,VA,,520,4160,848.07,607730,608513,5720,202,1040,34,exec-managerial,31000,Y
+Minor Damage,kayaking,Single Vehicle Collision,Side Collision,SC,Other,15520,46560,1291.7,609837,914088,69840,224,7760,40,sales,0,N
+Minor Damage,basketball,Single Vehicle Collision,Rear Collision,SC,Police,14100,63450,1104.5,432211,596785,91650,241,14100,45,machine-op-inspct,0,N
+Major Damage,video-games,Multi-vehicle Collision,Side Collision,SC,Ambulance,12600,50400,954.16,473328,908616,75600,64,12600,25,prof-specialty,53200,N
+Major Damage,reading,Multi-vehicle Collision,Side Collision,WV,Police,7460,52220,1337.28,610393,666333,67140,166,7460,37,craft-repair,27500,Y
+Total Loss,yachting,Multi-vehicle Collision,Front Collision,NY,Police,3310,23170,1088.34,614780,336614,29790,155,3310,35,adm-clerical,81100,N
+Major Damage,video-games,Multi-vehicle Collision,Front Collision,NY,Ambulance,14020,49070,1558.29,472248,584859,77110,114,14020,30,farming-fishing,51400,N
+Total Loss,yachting,Single Vehicle Collision,Side Collision,WV,Fire,5400,48600,1415.68,603381,990493,64800,149,10800,37,prof-specialty,0,N
+Major Damage,reading,Single Vehicle Collision,Front Collision,WV,Other,5310,37170,1334.15,479224,129872,53100,147,10620,33,craft-repair,53300,Y
+Total Loss,camping,Single Vehicle Collision,Rear Collision,NY,Police,6020,48160,988.45,430141,200152,60200,62,6020,28,protective-serv,0,Y
+Minor Damage,golf,Parked Car,?,WV,,820,3280,1222.48,620757,933293,5330,289,1230,49,priv-house-serv,0,N
+Major Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,NY,Police,6230,43610,1155.55,615901,485664,62300,431,12460,54,craft-repair,65700,N
+Major Damage,video-games,Single Vehicle Collision,Front Collision,NC,Ambulance,10940,38290,1262.08,474615,982871,60170,199,10940,37,tech-support,48500,Y
+Minor Damage,kayaking,Single Vehicle Collision,Rear Collision,WV,Ambulance,4000,28000,1451.62,456446,206213,40000,79,8000,26,tech-support,0,N
+Major Damage,chess,Single Vehicle Collision,Side Collision,WV,Police,16180,64720,1737.66,470577,616337,97080,116,16180,34,transport-moving,0,Y
+Minor Damage,hiking,Multi-vehicle Collision,Side Collision,SC,Other,5740,40180,1475.93,441648,448961,51660,37,5740,23,prof-specialty,0,N
+Total Loss,reading,Single Vehicle Collision,Rear Collision,NC,Other,5680,39760,538.17,433782,790442,51120,106,5680,30,transport-moving,49700,N
+Minor Damage,reading,Single Vehicle Collision,Front Collision,SC,Other,11280,33840,1081.08,468104,108844,56400,269,11280,44,priv-house-serv,36400,N
+Total Loss,yachting,Multi-vehicle Collision,Rear Collision,NY,Other,0,48230,1454.43,459407,430029,55120,265,6890,40,protective-serv,0,N
+Total Loss,polo,Multi-vehicle Collision,Rear Collision,NC,Fire,14020,63090,1240.47,472573,529112,77110,163,0,33,other-service,35300,N
+Major Damage,kayaking,Multi-vehicle Collision,Front Collision,WV,Fire,6280,50240,1273.7,433473,939631,62800,355,6280,47,other-service,0,Y
+Trivial Damage,dancing,Vehicle Theft,?,NY,Police,810,5670,1123.87,446326,866931,7290,175,810,34,protective-serv,0,N
+Total Loss,movies,Single Vehicle Collision,Rear Collision,WV,Other,7660,53620,1245.89,435481,582011,76600,192,15320,35,exec-managerial,0,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Front Collision,NY,Fire,8180,57260,1326.62,477310,691189,81800,430,16360,59,other-service,0,N
+Trivial Damage,polo,Vehicle Theft,?,NY,,660,5280,1073.83,609930,537546,7260,91,1320,27,farming-fishing,0,N
+Minor Damage,basketball,Vehicle Theft,?,WV,,430,3440,1530.52,603993,394975,4300,217,430,39,armed-forces,0,N
+Major Damage,movies,Multi-vehicle Collision,Side Collision,NC,Police,12820,44870,1201.41,437818,729634,70510,223,12820,40,priv-house-serv,88400,N
+Minor Damage,movies,Parked Car,?,VA,Police,480,1680,1393.57,478423,282195,2640,195,480,39,machine-op-inspct,47600,N
+Minor Damage,skydiving,Single Vehicle Collision,Rear Collision,NY,Fire,7890,55230,1276.57,467784,420810,78900,22,15780,26,craft-repair,71500,N
+Major Damage,chess,Multi-vehicle Collision,Front Collision,SC,Fire,6270,50160,1082.49,606714,524836,56430,439,0,56,prof-specialty,36100,N
+Minor Damage,hiking,Parked Car,?,VA,,300,1800,1414.74,464691,307195,2400,94,300,32,adm-clerical,0,N
+Total Loss,yachting,Single Vehicle Collision,Front Collision,WV,Ambulance,7310,51170,1470.06,431683,623648,65790,11,7310,39,other-service,56600,N
+Minor Damage,kayaking,Multi-vehicle Collision,Side Collision,VA,Police,5720,45760,870.63,431725,485372,62920,151,11440,36,adm-clerical,94800,N
+Major Damage,base-jumping,Multi-vehicle Collision,Rear Collision,NY,Police,0,54040,795.23,609216,598554,69480,154,15440,34,machine-op-inspct,36900,Y
+Total Loss,basketball,Multi-vehicle Collision,Side Collision,OH,Other,3690,33210,1168.2,452787,303987,44280,245,7380,44,handlers-cleaners,69100,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Side Collision,WV,Other,11260,39410,993.51,468767,343161,56300,119,5630,32,armed-forces,0,N
+Major Damage,video-games,Multi-vehicle Collision,Front Collision,WV,Fire,5710,51390,1848.81,435489,519312,68520,215,11420,42,transport-moving,0,Y
+Total Loss,chess,Multi-vehicle Collision,Rear Collision,VA,Fire,6570,45990,1641.73,450149,132902,59130,295,6570,42,sales,62400,Y
+Minor Damage,chess,Multi-vehicle Collision,Front Collision,NY,Ambulance,6860,61740,1362.87,458364,332867,82320,254,13720,39,exec-managerial,35700,Y
+Minor Damage,paintball,Single Vehicle Collision,Side Collision,SC,Fire,13800,62100,1239.22,476458,356590,89700,107,13800,31,tech-support,43400,Y
+Minor Damage,reading,Multi-vehicle Collision,Side Collision,WV,Fire,3770,30160,835.02,602433,346002,33930,478,0,64,adm-clerical,59600,N
+Major Damage,movies,Single Vehicle Collision,Front Collision,WV,Ambulance,6230,49840,1061.33,478575,500533,68530,128,12460,30,machine-op-inspct,43300,N
+Minor Damage,kayaking,Parked Car,?,NC,,860,2580,1279.08,449718,348209,4300,338,860,49,other-service,0,N
+Major Damage,sleeping,Multi-vehicle Collision,Side Collision,SC,Other,6210,49680,1105.49,463181,486676,68310,271,12420,42,prof-specialty,56200,Y
+Total Loss,cross-fit,Single Vehicle Collision,Front Collision,WV,Other,6810,47670,1055.53,441992,260845,61290,222,6810,41,armed-forces,37800,Y
+Minor Damage,paintball,Single Vehicle Collision,Rear Collision,NC,Ambulance,0,27090,895.83,452597,657045,30100,199,3010,41,sales,0,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,SC,Fire,4760,42840,1632.93,614417,761189,57120,215,9520,37,transport-moving,0,N
+Minor Damage,yachting,Multi-vehicle Collision,Side Collision,VA,Ambulance,4770,28620,1405.99,472895,175177,42930,192,9540,40,sales,0,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Front Collision,SC,Ambulance,5690,34140,1425.54,475847,116700,51210,120,11380,35,transport-moving,78300,N
+Minor Damage,golf,Multi-vehicle Collision,Front Collision,NY,Fire,7450,67050,1038.09,476978,166264,89400,270,14900,45,handlers-cleaners,0,N
+Total Loss,dancing,Multi-vehicle Collision,Front Collision,WV,Police,10860,38010,1307.11,600648,527945,59730,319,10860,47,transport-moving,0,N
+Minor Damage,kayaking,Vehicle Theft,?,SC,,1240,5580,1489.24,608335,627540,8060,194,1240,39,other-service,0,N
+Major Damage,polo,Single Vehicle Collision,Rear Collision,SC,Fire,7220,50540,976.67,471600,279422,72200,227,14440,38,handlers-cleaners,0,Y
+Minor Damage,paintball,Multi-vehicle Collision,Side Collision,NC,Ambulance,10160,30480,1340.43,441175,484200,50800,137,10160,31,exec-managerial,52700,N
+Trivial Damage,video-games,Vehicle Theft,?,NC,,1320,4620,1267.81,603123,645258,6600,244,660,40,exec-managerial,0,N
+Minor Damage,bungie-jumping,Vehicle Theft,?,NY,Police,1500,5250,1234.2,457767,694662,7500,78,750,29,other-service,0,N
+Trivial Damage,video-games,Vehicle Theft,?,VA,,1180,4130,1318.06,618498,960680,6490,200,1180,35,exec-managerial,57300,N
+Major Damage,movies,Multi-vehicle Collision,Side Collision,NY,Ambulance,11080,44320,769.95,605486,498140,60940,284,5540,48,prof-specialty,0,Y
+Major Damage,board-games,Multi-vehicle Collision,Front Collision,NY,Fire,11660,40810,1514.72,617970,498875,58300,275,5830,41,transport-moving,35700,N
+Minor Damage,yachting,Multi-vehicle Collision,Front Collision,SC,Other,11400,45600,873.64,432934,798177,68400,153,11400,34,priv-house-serv,800,N
+Total Loss,yachting,Single Vehicle Collision,Side Collision,VA,Fire,11680,40880,1612.43,456762,614763,64240,134,11680,32,other-service,36400,N
+Trivial Damage,kayaking,Parked Car,?,WV,,470,3290,1318.24,601748,679370,4700,31,940,36,prof-specialty,0,N
+Major Damage,exercise,Multi-vehicle Collision,Side Collision,SC,Other,5640,39480,1226.83,607763,958857,45120,41,0,25,exec-managerial,0,Y
+Total Loss,board-games,Multi-vehicle Collision,Front Collision,SC,Fire,10300,46350,1326.44,436973,686816,66950,127,10300,29,sales,0,N
+Major Damage,exercise,Single Vehicle Collision,Side Collision,NY,Police,17880,71520,1136.83,471300,127754,98340,61,8940,23,tech-support,0,Y
+Trivial Damage,yachting,Parked Car,?,WV,,590,4720,1322.78,453277,918629,5900,207,590,42,farming-fishing,55200,N
+Major Damage,exercise,Multi-vehicle Collision,Front Collision,NC,Ambulance,11780,53010,1483.25,465100,731450,70680,219,5890,43,exec-managerial,90700,N
+Total Loss,hiking,Multi-vehicle Collision,Rear Collision,SC,Ambulance,8520,68160,1515.3,603248,307447,93720,271,17040,42,machine-op-inspct,0,N
+Minor Damage,exercise,Vehicle Theft,?,OH,,630,5040,1075.18,601112,992145,6930,80,1260,25,armed-forces,67700,N
+Major Damage,hiking,Single Vehicle Collision,Side Collision,VA,Fire,6630,59670,1690.27,438830,900628,72930,325,6630,47,protective-serv,61500,Y
+Minor Damage,skydiving,Multi-vehicle Collision,Rear Collision,SC,Other,7210,50470,1352.83,464959,235220,64890,29,7210,25,farming-fishing,0,Y
+Trivial Damage,kayaking,Parked Car,?,WV,,900,3600,1148.73,439787,740019,5400,295,900,48,machine-op-inspct,0,N
+Trivial Damage,reading,Vehicle Theft,?,NC,,700,4200,969.5,464839,246882,5600,239,700,42,exec-managerial,0,N
+Minor Damage,yachting,Single Vehicle Collision,Rear Collision,SC,Police,15860,47580,1463.82,448984,797613,79300,269,15860,41,protective-serv,0,N
+Major Damage,exercise,Single Vehicle Collision,Side Collision,WV,Police,5280,36960,1474.17,440327,193442,52800,80,10560,27,tech-support,0,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Front Collision,NC,Fire,3600,25200,1497.35,460742,389238,28800,279,0,41,prof-specialty,37300,N
+Minor Damage,kayaking,Parked Car,?,WV,Police,330,2310,1427.14,446895,760179,2970,165,330,33,tech-support,35300,N
+Total Loss,basketball,Multi-vehicle Collision,Side Collision,SC,Police,7790,70110,1495.1,609374,939905,93480,350,15580,54,other-service,50500,N
+Minor Damage,kayaking,Vehicle Theft,?,WV,,480,3360,1141.62,451672,872814,4320,295,480,49,prof-specialty,34300,N
+Major Damage,basketball,Multi-vehicle Collision,Rear Collision,VA,Police,19950,53200,1125.37,604450,632627,79800,464,6650,61,prof-specialty,0,Y
+Major Damage,camping,Multi-vehicle Collision,Front Collision,WV,Ambulance,14840,51940,1207.36,432896,283414,74200,118,7420,28,handlers-cleaners,0,N
+Major Damage,basketball,Single Vehicle Collision,Front Collision,NY,Fire,10860,48870,1338.5,618929,163161,70590,298,10860,47,machine-op-inspct,28800,Y
+Major Damage,chess,Multi-vehicle Collision,Rear Collision,NY,Fire,11080,44320,1074.07,451312,853360,60940,87,5540,31,sales,0,Y
+Minor Damage,video-games,Single Vehicle Collision,Rear Collision,SC,Police,14940,52290,1337.56,605141,776860,74700,261,7470,42,prof-specialty,0,N
+Major Damage,dancing,Single Vehicle Collision,Front Collision,NC,Fire,7000,49000,1298.91,459504,149367,70000,453,14000,60,craft-repair,52600,Y
+Total Loss,polo,Multi-vehicle Collision,Rear Collision,WV,Other,14740,51590,1222.75,432781,395269,81070,210,14740,41,exec-managerial,0,N
+Major Damage,camping,Multi-vehicle Collision,Side Collision,VA,Other,9620,33670,1059.52,452748,981123,57720,168,14430,32,protective-serv,0,N
+Minor Damage,reading,Vehicle Theft,?,VA,,1180,4720,1124.38,618316,143626,7080,390,1180,51,armed-forces,0,N
+Total Loss,hiking,Multi-vehicle Collision,Side Collision,NY,Other,9540,33390,1110.37,455365,648397,47700,258,4770,46,machine-op-inspct,34400,Y
+Minor Damage,bungie-jumping,Single Vehicle Collision,Rear Collision,SC,Police,9320,32620,1374.22,470603,154982,51260,107,9320,31,machine-op-inspct,62000,N
+Major Damage,exercise,Multi-vehicle Collision,Side Collision,NY,Police,12800,51200,1103.58,475292,330591,70400,225,6400,41,exec-managerial,41200,Y
+Minor Damage,yachting,Single Vehicle Collision,Rear Collision,NY,Fire,9000,63000,1269.76,467743,319232,90000,164,18000,38,transport-moving,44300,N
+Minor Damage,camping,Multi-vehicle Collision,Rear Collision,NY,Police,6620,52960,964.79,460675,531640,72820,245,13240,39,adm-clerical,58000,N
+Minor Damage,board-games,Single Vehicle Collision,Side Collision,SC,Fire,13860,41580,1167.3,618123,368050,69300,255,13860,41,priv-house-serv,0,N
+Major Damage,video-games,Single Vehicle Collision,Front Collision,NY,Ambulance,12760,51040,1625.45,607452,253791,76560,206,12760,36,other-service,0,Y
+Major Damage,skydiving,Single Vehicle Collision,Front Collision,VA,Ambulance,6160,49280,1394.43,606352,155724,55440,203,0,38,other-service,0,Y
+Total Loss,movies,Multi-vehicle Collision,Front Collision,NC,Other,17140,51420,1053.24,603527,824540,77130,22,8570,25,prof-specialty,51100,N
+Total Loss,paintball,Single Vehicle Collision,Rear Collision,WV,Ambulance,7000,28000,1040.75,445601,717392,42000,211,7000,35,prof-specialty,0,N
+Total Loss,dancing,Multi-vehicle Collision,Rear Collision,NY,Ambulance,9900,23100,1302.4,603948,965768,36300,206,3300,39,craft-repair,47200,N
+Total Loss,video-games,Single Vehicle Collision,Side Collision,WV,Other,5760,28800,1588.55,435758,414779,40320,166,5760,38,protective-serv,59600,N
+Minor Damage,exercise,Parked Car,?,PA,Police,660,2970,1399.26,611586,428230,3960,165,330,32,tech-support,70500,N
+Major Damage,basketball,Single Vehicle Collision,Front Collision,NY,Fire,10640,42560,1352.31,465263,517240,63840,274,10640,43,farming-fishing,40700,Y
+Major Damage,sleeping,Multi-vehicle Collision,Front Collision,SC,Fire,4970,34790,1139.0,617858,469874,44730,81,4970,28,sales,42400,Y
+Minor Damage,camping,Multi-vehicle Collision,Front Collision,NY,Other,14120,56480,1397.67,607889,718428,84720,280,14120,45,machine-op-inspct,57900,N
+Major Damage,paintball,Multi-vehicle Collision,Front Collision,WV,Other,12300,43050,823.17,455689,620215,61500,194,6150,39,adm-clerical,0,N
+Major Damage,exercise,Multi-vehicle Collision,Front Collision,NC,Ambulance,8500,34000,965.13,450341,618659,51000,112,8500,27,tech-support,60000,N
+Total Loss,skydiving,Single Vehicle Collision,Side Collision,WV,Police,9360,32760,1922.84,431277,649082,46800,24,4680,33,machine-op-inspct,0,N
+Minor Damage,basketball,Single Vehicle Collision,Side Collision,WV,Ambulance,8680,52080,1624.82,454656,437573,78120,93,17360,32,exec-managerial,65300,N
+Major Damage,yachting,Single Vehicle Collision,Rear Collision,NY,Police,6920,48440,1277.25,605169,964657,69200,171,13840,34,exec-managerial,84900,Y
+Minor Damage,exercise,Vehicle Theft,?,VA,Police,410,2870,1439.34,444822,932502,3690,200,410,40,sales,45300,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,SC,Fire,6550,52400,1281.27,447442,434507,65500,120,6550,28,tech-support,68900,N
+Minor Damage,basketball,Multi-vehicle Collision,Rear Collision,NC,Fire,6920,55360,1348.83,474360,935277,76120,325,13840,46,prof-specialty,46300,N
+Total Loss,hiking,Multi-vehicle Collision,Front Collision,VA,Other,12260,49040,1198.15,447925,756054,73560,124,12260,32,other-service,0,N
+Total Loss,camping,Single Vehicle Collision,Rear Collision,NY,Police,4730,37840,1221.22,451586,682387,52030,211,9460,35,machine-op-inspct,76000,N
+Trivial Damage,video-games,Vehicle Theft,?,SC,,940,3760,968.74,477519,456604,5170,287,470,41,transport-moving,0,N
+Minor Damage,video-games,Parked Car,?,SC,,1260,5040,1220.71,603639,139872,8190,122,1890,34,machine-op-inspct,58600,N
+Major Damage,yachting,Single Vehicle Collision,Rear Collision,SC,Ambulance,14160,49560,1238.62,463993,354105,70800,22,7080,29,exec-managerial,0,Y
+Total Loss,video-games,Multi-vehicle Collision,Rear Collision,WV,Police,5070,35490,1320.75,441491,165485,45630,106,5070,31,farming-fishing,54100,N
+Major Damage,cross-fit,Single Vehicle Collision,Front Collision,NC,Police,15280,76400,990.98,469429,515050,99320,398,7640,58,exec-managerial,0,Y
+Major Damage,polo,Multi-vehicle Collision,Side Collision,NC,Fire,6400,44800,1398.51,472214,795686,64000,214,12800,41,tech-support,0,Y
+Minor Damage,golf,Single Vehicle Collision,Front Collision,WV,Fire,4730,37840,1355.08,614945,395983,47300,209,4730,38,other-service,58100,N
+Major Damage,reading,Single Vehicle Collision,Rear Collision,SC,Other,8960,53760,1384.51,476727,119513,71680,82,8960,27,adm-clerical,13100,Y
+Major Damage,skydiving,Single Vehicle Collision,Side Collision,SC,Other,17280,77760,847.03,438555,217938,112320,193,17280,41,craft-repair,0,Y
+Total Loss,base-jumping,Single Vehicle Collision,Side Collision,NY,Other,15040,60160,1000.06,440961,203914,82720,134,7520,32,farming-fishing,0,N
+Major Damage,polo,Multi-vehicle Collision,Rear Collision,NC,Fire,5340,32040,1046.71,616714,565157,48060,288,10680,45,priv-house-serv,0,N
+Total Loss,kayaking,Multi-vehicle Collision,Rear Collision,NY,Police,9780,44010,1158.03,434247,904191,63570,104,9780,32,exec-managerial,31900,Y
+Total Loss,paintball,Multi-vehicle Collision,Rear Collision,WV,Fire,10540,42160,1372.27,436547,419510,63240,431,10540,54,craft-repair,17600,N
+Minor Damage,reading,Multi-vehicle Collision,Rear Collision,NC,Ambulance,9040,36160,1053.04,619540,575000,54240,101,9040,33,other-service,52000,Y
+Major Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Police,0,37280,1275.39,466283,120485,37280,375,0,50,sales,0,Y
+Minor Damage,exercise,Multi-vehicle Collision,Rear Collision,NY,Police,14420,50470,1402.75,449557,781181,72100,461,7210,61,exec-managerial,0,N
+Minor Damage,hiking,Parked Car,?,WV,,650,4550,1344.36,473329,299796,6500,428,1300,59,prof-specialty,0,N
+Total Loss,movies,Multi-vehicle Collision,Front Collision,WV,Ambulance,13040,52160,1197.71,470117,589749,78240,45,13040,38,machine-op-inspct,29000,N
+Minor Damage,video-games,Vehicle Theft,?,NY,Police,620,4340,1203.24,600702,854021,6200,136,1240,29,transport-moving,62500,N
+Minor Damage,reading,Parked Car,?,VA,Police,1680,3920,1152.4,615921,454086,6160,216,560,36,priv-house-serv,39600,N
+Total Loss,dancing,Single Vehicle Collision,Front Collision,SC,Ambulance,11700,52650,1142.62,475588,139484,76050,278,11700,48,farming-fishing,0,N
+Total Loss,polo,Multi-vehicle Collision,Side Collision,NY,Ambulance,13240,59580,1332.07,609409,678849,86060,295,13240,48,exec-managerial,49700,N
+Major Damage,sleeping,Single Vehicle Collision,Front Collision,SC,Fire,21580,75530,1166.54,479852,346940,107900,112,10790,30,prof-specialty,47700,Y
+Total Loss,polo,Multi-vehicle Collision,Rear Collision,PA,Fire,18180,63630,1495.06,452249,985436,99990,122,18180,34,prof-specialty,38100,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Ambulance,5580,44640,1337.92,441536,237418,61380,108,11160,29,armed-forces,71400,N
+Major Damage,board-games,Single Vehicle Collision,Rear Collision,WV,Fire,12960,45360,1587.96,601617,335780,71280,14,12960,28,craft-repair,0,Y
+Minor Damage,yachting,Multi-vehicle Collision,Front Collision,NY,Ambulance,6400,44800,1362.29,442598,491392,64000,298,12800,45,farming-fishing,0,N
+Trivial Damage,bungie-jumping,Parked Car,?,SC,Police,660,4620,1448.84,430987,140880,5940,276,660,46,machine-op-inspct,0,N
+Minor Damage,movies,Parked Car,?,NY,,670,5360,1241.97,430104,962591,6700,47,670,37,other-service,75400,N
+Minor Damage,hiking,Multi-vehicle Collision,Rear Collision,NY,Police,7960,31840,1124.6,612904,922565,51740,222,11940,42,armed-forces,0,N
+Total Loss,hiking,Single Vehicle Collision,Rear Collision,PA,Ambulance,6700,40200,1079.92,430886,288580,53600,119,6700,28,machine-op-inspct,88800,Y
+Total Loss,board-games,Multi-vehicle Collision,Rear Collision,SC,Other,4990,34930,1447.78,467947,154280,44910,73,4990,29,protective-serv,35100,N
+Major Damage,kayaking,Multi-vehicle Collision,Front Collision,PA,Fire,7400,29600,1229.16,604804,425973,48100,8,11100,31,transport-moving,0,N
+Trivial Damage,kayaking,Vehicle Theft,?,WV,,1220,4270,1226.49,460308,477177,6100,294,610,44,farming-fishing,53900,N
+Minor Damage,board-games,Single Vehicle Collision,Rear Collision,PA,Other,15920,47760,897.89,618862,648509,79600,324,15920,46,tech-support,0,N
+Minor Damage,dancing,Single Vehicle Collision,Front Collision,OH,Ambulance,8560,59920,1706.79,462479,914815,77040,155,8560,34,protective-serv,0,N
+Minor Damage,kayaking,Single Vehicle Collision,Rear Collision,SC,Fire,11380,39830,1254.18,457555,249048,62590,261,11380,45,prof-specialty,0,N
+Total Loss,skydiving,Single Vehicle Collision,Front Collision,WV,Other,13100,58950,885.08,459984,144323,85150,245,13100,40,armed-forces,27000,N
+Trivial Damage,exercise,Vehicle Theft,?,NY,,900,3600,1046.58,434982,651861,4950,235,450,39,tech-support,0,N
+Major Damage,basketball,Multi-vehicle Collision,Side Collision,VA,Fire,5110,35770,1712.68,614233,125324,51100,53,10220,36,handlers-cleaners,72200,N
+Minor Damage,reading,Single Vehicle Collision,Side Collision,SC,Police,16800,67200,1097.71,605258,398102,100800,426,16800,54,adm-clerical,29600,N
+Total Loss,exercise,Single Vehicle Collision,Side Collision,VA,Police,16540,57890,1363.77,604377,514065,90970,111,16540,27,tech-support,51100,N
+Minor Damage,cross-fit,Single Vehicle Collision,Rear Collision,SC,Police,7440,59520,1382.88,434923,391652,81840,86,14880,26,tech-support,0,Y
+Major Damage,sleeping,Single Vehicle Collision,Front Collision,NY,Ambulance,5490,43920,1141.35,476456,922167,54900,296,5490,46,craft-repair,0,N
+Total Loss,cross-fit,Single Vehicle Collision,Front Collision,NY,Fire,16120,64480,1054.83,446788,442795,88660,125,8060,35,tech-support,0,Y
+Total Loss,bungie-jumping,Multi-vehicle Collision,Front Collision,NC,Ambulance,2250,13500,1057.77,477382,226330,18000,177,2250,34,tech-support,0,N
+Minor Damage,exercise,Vehicle Theft,?,NY,Police,550,3850,1488.02,600275,134430,5500,238,1100,39,protective-serv,0,N
+Major Damage,hiking,Multi-vehicle Collision,Rear Collision,WV,Other,6720,53760,920.3,461958,524230,73920,81,13440,25,tech-support,51000,Y
+Total Loss,polo,Single Vehicle Collision,Rear Collision,VA,Ambulance,18520,64820,986.53,472720,438817,101860,128,18520,28,adm-clerical,62700,N
+Minor Damage,movies,Parked Car,?,SC,,980,3430,1440.68,442395,293794,5390,449,980,57,tech-support,25000,N
+Minor Damage,hiking,Single Vehicle Collision,Side Collision,SC,Police,5610,39270,1086.21,455340,868283,50490,252,5610,39,farming-fishing,68500,N
+Total Loss,basketball,Single Vehicle Collision,Front Collision,SC,Police,11100,38850,1367.68,613247,828890,55500,359,5550,47,handlers-cleaners,0,N
+Minor Damage,hiking,Vehicle Theft,?,VA,Police,640,5120,1215.85,454985,882920,7040,19,1280,32,other-service,42900,N
+Total Loss,basketball,Multi-vehicle Collision,Rear Collision,VA,Other,0,35140,1191.19,468813,918777,40160,73,5020,26,farming-fishing,29300,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,NC,Fire,6960,41760,1594.45,452747,212580,55680,285,6960,44,handlers-cleaners,0,N
+Trivial Damage,skydiving,Vehicle Theft,?,WV,Police,530,4240,1463.07,615611,602410,5300,196,530,36,armed-forces,0,Y
+Trivial Damage,camping,Parked Car,?,WV,,650,3900,1734.09,451400,976971,5200,223,650,43,adm-clerical,0,N
+Major Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Ambulance,11880,41580,1411.43,464874,630226,59400,328,5940,48,armed-forces,45100,N
+Minor Damage,paintball,Vehicle Theft,?,SC,Police,280,1960,1512.58,452496,171254,2520,285,280,43,sales,47600,N
+Trivial Damage,golf,Vehicle Theft,?,NY,Police,960,3840,1153.35,430714,247116,5760,30,960,31,craft-repair,0,N
+Minor Damage,base-jumping,Single Vehicle Collision,Rear Collision,WV,Fire,7670,61360,1722.95,472634,505969,76700,342,7670,49,transport-moving,63100,N
+Trivial Damage,board-games,Parked Car,?,NY,Police,740,4440,1281.07,608371,653864,5920,219,740,39,protective-serv,0,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,SC,Fire,7150,50050,1011.92,468168,586367,64350,468,7150,62,machine-op-inspct,0,N
+Total Loss,kayaking,Multi-vehicle Collision,Rear Collision,WV,Ambulance,2120,12720,1042.26,464107,896890,19080,241,4240,39,sales,0,N
+Minor Damage,exercise,Single Vehicle Collision,Rear Collision,SC,Police,5440,43520,1235.1,466959,650026,54400,223,5440,43,tech-support,66400,N
+Total Loss,chess,Single Vehicle Collision,Rear Collision,SC,Fire,5980,47840,768.91,443522,547744,59800,128,5980,32,sales,0,Y
+Major Damage,golf,Multi-vehicle Collision,Side Collision,VA,Police,7200,57600,1301.72,441726,598124,72000,124,7200,29,handlers-cleaners,0,N
+Total Loss,hiking,Multi-vehicle Collision,Side Collision,SC,Police,14460,43380,1451.54,473412,436126,65070,343,7230,48,adm-clerical,0,N
+Trivial Damage,reading,Parked Car,?,WV,Police,880,6160,767.14,466201,739447,8800,404,1760,53,sales,25500,N
+Minor Damage,movies,Vehicle Theft,?,NC,Police,1020,4080,1620.89,469621,427484,6120,63,1020,24,handlers-cleaners,0,N
+Trivial Damage,skydiving,Vehicle Theft,?,OH,,590,5310,1048.46,466676,218684,7080,210,1180,37,priv-house-serv,59900,N
+Minor Damage,yachting,Multi-vehicle Collision,Side Collision,NY,Ambulance,4290,21450,1538.26,615346,565564,34320,335,8580,50,sales,62200,N
+Major Damage,reading,Multi-vehicle Collision,Side Collision,SC,Other,9720,34020,1217.69,440106,743163,53460,11,9720,40,prof-specialty,24000,Y
+Total Loss,cross-fit,Single Vehicle Collision,Side Collision,NC,Other,13560,61020,1362.64,450332,604614,81360,142,6780,33,exec-managerial,0,Y
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,NC,Ambulance,14740,58960,1279.13,615226,509928,81070,272,7370,43,craft-repair,0,Y
+Minor Damage,base-jumping,Single Vehicle Collision,Front Collision,NY,Fire,10520,47340,924.72,437688,593390,63120,69,5260,26,machine-op-inspct,0,N
+Trivial Damage,yachting,Vehicle Theft,?,NC,,720,5040,1019.44,437387,970607,7200,38,1440,28,transport-moving,0,N
+Total Loss,exercise,Single Vehicle Collision,Rear Collision,WV,Other,6390,51120,1314.6,458139,174701,70290,328,12780,46,prof-specialty,24800,Y
+Minor Damage,camping,Multi-vehicle Collision,Side Collision,SC,Fire,9260,41670,1515.18,443191,529398,60190,281,9260,43,priv-house-serv,0,N
+Major Damage,base-jumping,Single Vehicle Collision,Front Collision,NY,Other,5580,44640,1649.18,613647,940942,61380,246,11160,44,farming-fishing,0,Y
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,NY,Ambulance,5620,19670,1451.01,460820,442677,28100,298,2810,49,other-service,47800,N
+Total Loss,yachting,Single Vehicle Collision,Side Collision,NY,Fire,8920,31220,978.46,431121,365364,49060,330,8920,50,sales,0,N
+Total Loss,board-games,Multi-vehicle Collision,Side Collision,NY,Fire,6340,44380,1198.34,619735,114839,57060,362,6340,50,sales,53000,N
+Major Damage,kayaking,Multi-vehicle Collision,Side Collision,VA,Fire,12980,51920,1003.23,470485,872734,77880,241,12980,38,tech-support,0,N
+Total Loss,basketball,Single Vehicle Collision,Front Collision,NY,Ambulance,14700,51450,1212.0,620473,267885,73500,245,7350,41,exec-managerial,24400,N
+Minor Damage,paintball,Multi-vehicle Collision,Rear Collision,NY,Other,13680,68400,1242.96,449800,740505,88920,371,6840,52,other-service,0,N
+Major Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Other,4330,30310,1053.02,602402,629663,47630,343,12990,52,prof-specialty,0,Y
+Total Loss,kayaking,Multi-vehicle Collision,Front Collision,WV,Fire,6560,45920,1693.63,452456,839884,59040,377,6560,53,craft-repair,0,N
+Minor Damage,dancing,Single Vehicle Collision,Rear Collision,SC,Other,7230,57840,2047.59,439269,241562,79530,154,14460,37,farming-fishing,0,N
+Total Loss,base-jumping,Single Vehicle Collision,Side Collision,NY,Other,4880,43920,1083.72,617774,405533,53680,166,4880,34,machine-op-inspct,65600,N
+Minor Damage,dancing,Single Vehicle Collision,Side Collision,SC,Police,6100,24400,1138.42,477678,667021,33550,298,3050,46,prof-specialty,36900,N
+Total Loss,exercise,Multi-vehicle Collision,Side Collision,WV,Other,6910,55280,1072.62,444913,511621,69100,235,6910,42,machine-op-inspct,39900,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,OH,Police,14500,50750,1219.04,456602,476923,79750,172,14500,35,handlers-cleaners,63600,N
+Major Damage,polo,Multi-vehicle Collision,Front Collision,PA,Other,10720,37520,1371.78,451560,735822,53600,27,5360,28,farming-fishing,0,Y
+Minor Damage,kayaking,Multi-vehicle Collision,Side Collision,NY,Fire,6380,57420,1506.21,453407,492745,76560,428,12760,54,transport-moving,0,N
+Total Loss,golf,Single Vehicle Collision,Front Collision,NY,Fire,4570,31990,1058.21,618655,130930,41130,99,4570,32,craft-repair,0,N
+Total Loss,cross-fit,Multi-vehicle Collision,Rear Collision,SC,Fire,7150,57200,932.14,612550,261119,78650,107,14300,26,sales,40600,Y
+Major Damage,reading,Single Vehicle Collision,Side Collision,NY,Other,12920,51680,1608.34,466718,280709,71060,272,6460,41,farming-fishing,33300,N
+Minor Damage,dancing,Single Vehicle Collision,Front Collision,WV,Fire,3530,31770,1728.56,617947,898573,38830,151,3530,37,farming-fishing,54000,N
+Major Damage,cross-fit,Single Vehicle Collision,Front Collision,SC,Fire,5350,42800,1518.46,606238,547802,53500,249,5350,43,armed-forces,0,N
+Major Damage,skydiving,Single Vehicle Collision,Front Collision,VA,Other,7370,58960,1540.19,463842,600845,73700,177,7370,38,adm-clerical,0,Y
+Trivial Damage,camping,Parked Car,?,SC,,630,5040,965.21,610354,390381,6300,190,630,40,exec-managerial,36900,N
+Total Loss,paintball,Multi-vehicle Collision,Rear Collision,NY,Ambulance,10900,43600,1278.75,461328,629918,65400,174,10900,36,tech-support,53200,N
+Trivial Damage,board-games,Vehicle Theft,?,PA,,320,2240,773.99,458727,208298,3200,95,640,28,armed-forces,0,N
+Major Damage,golf,Single Vehicle Collision,Rear Collision,NY,Fire,15080,52780,1532.47,452587,513099,75400,371,7540,51,tech-support,60300,Y
+Minor Damage,golf,Single Vehicle Collision,Side Collision,NY,Fire,6460,45220,1340.56,433184,184938,58140,2,6460,28,machine-op-inspct,0,N
+Total Loss,chess,Multi-vehicle Collision,Rear Collision,SC,Ambulance,15180,68310,1297.75,451280,187775,98670,269,15180,44,other-service,0,Y
+Minor Damage,golf,Parked Car,?,SC,,590,4130,433.33,603269,326322,5900,101,1180,27,machine-op-inspct,25900,N
+Major Damage,paintball,Single Vehicle Collision,Rear Collision,NC,Fire,6410,51280,1025.54,442632,146138,64100,94,6410,30,armed-forces,0,N
+Total Loss,yachting,Multi-vehicle Collision,Rear Collision,SC,Fire,10080,40320,1264.77,447300,336047,55440,117,5040,28,transport-moving,47500,Y
+Major Damage,yachting,Multi-vehicle Collision,Side Collision,SC,Police,14700,58800,1459.97,441783,532330,80850,111,7350,27,sales,0,Y
+Trivial Damage,bungie-jumping,Vehicle Theft,?,WV,Police,680,6120,1238.65,468702,118137,7480,242,680,40,transport-moving,0,N
+Major Damage,movies,Single Vehicle Collision,Side Collision,OH,Fire,5960,41720,1050.76,467942,212674,53640,440,5960,61,transport-moving,41500,Y
+Major Damage,base-jumping,Multi-vehicle Collision,Rear Collision,SC,Fire,11500,46000,1711.72,463678,935596,63250,20,5750,23,tech-support,0,Y
+Major Damage,golf,Multi-vehicle Collision,Side Collision,NY,Ambulance,9840,39360,865.33,615220,737593,59040,461,9840,57,farming-fishing,0,N
+Total Loss,base-jumping,Multi-vehicle Collision,Side Collision,SC,Other,5050,35350,1153.49,432711,812025,50500,208,10100,36,craft-repair,0,N
+Major Damage,cross-fit,Single Vehicle Collision,Side Collision,SC,Police,12820,38460,1281.25,463583,168151,57690,279,6410,43,machine-op-inspct,0,Y
+Trivial Damage,base-jumping,Vehicle Theft,?,NY,Police,660,4620,1342.8,439502,594739,5940,244,660,40,sales,0,N
+Major Damage,dancing,Multi-vehicle Collision,Rear Collision,SC,Fire,5310,37170,1443.32,613287,843227,47790,134,5310,30,exec-managerial,0,Y
+Trivial Damage,skydiving,Parked Car,?,SC,,350,3150,1629.94,620104,283925,3850,122,350,29,priv-house-serv,0,N
+Major Damage,reading,Single Vehicle Collision,Front Collision,NC,Police,5900,47200,1134.08,446895,475588,59000,156,5900,31,other-service,0,Y
+Major Damage,golf,Multi-vehicle Collision,Rear Collision,NY,Ambulance,14120,49420,1483.91,431531,751905,70600,232,7060,43,machine-op-inspct,0,Y
+Minor Damage,base-jumping,Multi-vehicle Collision,Side Collision,SC,Police,11180,44720,1304.67,605408,226725,61490,244,5590,40,armed-forces,0,N
+Minor Damage,kayaking,Single Vehicle Collision,Side Collision,SC,Police,10480,41920,1035.79,457551,942504,57640,84,5240,30,protective-serv,44400,N
+Trivial Damage,movies,Vehicle Theft,?,NC,Police,1060,4770,1401.2,619892,395572,6890,394,1060,57,craft-repair,51500,N
+Major Damage,hiking,Multi-vehicle Collision,Side Collision,PA,Fire,5920,35520,1665.45,445853,889883,53280,246,11840,45,machine-op-inspct,34400,Y
+Minor Damage,video-games,Multi-vehicle Collision,Rear Collision,SC,Fire,7830,54810,653.66,475483,818167,78300,35,15660,29,handlers-cleaners,52100,N
+Major Damage,reading,Multi-vehicle Collision,Rear Collision,PA,Ambulance,4610,32270,1080.13,606290,277767,41490,156,4610,37,protective-serv,0,N
+Total Loss,camping,Multi-vehicle Collision,Front Collision,SC,Fire,6270,50160,1346.18,611852,842618,68970,195,12540,36,machine-op-inspct,57800,N
+Minor Damage,camping,Multi-vehicle Collision,Rear Collision,VA,Police,8530,59710,1589.54,444734,577810,85300,369,17060,55,handlers-cleaners,55400,N
+Minor Damage,camping,Parked Car,?,NY,,280,2240,1251.65,433683,873114,3080,271,560,40,other-service,71200,N
+Major Damage,paintball,Multi-vehicle Collision,Front Collision,WV,Police,11040,49680,1083.01,448882,994538,71760,332,11040,47,craft-repair,91900,Y
+Minor Damage,skydiving,Multi-vehicle Collision,Rear Collision,NY,Ambulance,11940,35820,974.59,466838,727792,59700,107,11940,26,armed-forces,62800,N
+Minor Damage,skydiving,Multi-vehicle Collision,Front Collision,NY,Fire,10820,43280,1399.85,605490,522506,64920,217,10820,39,other-service,49900,N
+Major Damage,board-games,Multi-vehicle Collision,Front Collision,SC,Ambulance,4170,29190,1307.74,466137,367595,37530,243,4170,43,machine-op-inspct,0,N
+Total Loss,paintball,Multi-vehicle Collision,Side Collision,WV,Ambulance,7120,49840,1219.27,466970,586104,64080,296,7120,42,tech-support,53100,N
+Minor Damage,cross-fit,Single Vehicle Collision,Rear Collision,PA,Other,5490,43920,1411.3,474801,424862,60390,264,10980,41,prof-specialty,55600,Y
+Major Damage,exercise,Multi-vehicle Collision,Side Collision,WV,Police,11700,46800,694.45,450703,512813,64350,108,5850,33,armed-forces,0,Y
+Minor Damage,sleeping,Multi-vehicle Collision,Side Collision,SC,Police,7090,49630,1006.77,478172,356768,70900,32,14180,38,other-service,0,N
+Minor Damage,movies,Multi-vehicle Collision,Side Collision,PA,Fire,7760,31040,1422.36,604668,330506,46560,259,7760,39,craft-repair,0,N
+Trivial Damage,cross-fit,Vehicle Theft,?,NY,Police,860,3010,1348.32,469429,779075,4730,186,860,33,craft-repair,37600,Y
+Minor Damage,video-games,Vehicle Theft,?,SC,Police,1240,4340,1315.56,471806,799501,6820,201,1240,40,transport-moving,0,N
+Major Damage,sleeping,Single Vehicle Collision,Rear Collision,WV,Police,5990,41930,1407.01,475705,987905,59900,436,11980,58,tech-support,47400,Y
+Major Damage,basketball,Multi-vehicle Collision,Side Collision,WV,Police,13260,53040,1388.58,459122,967756,79560,189,13260,36,priv-house-serv,0,N
+Total Loss,kayaking,Single Vehicle Collision,Front Collision,VA,Other,6390,51120,1310.76,476737,830414,70290,105,12780,33,adm-clerical,0,N
+Total Loss,hiking,Multi-vehicle Collision,Rear Collision,SC,Ambulance,11620,46480,1004.63,460359,127313,63910,163,5810,31,priv-house-serv,26900,N
+Trivial Damage,golf,Vehicle Theft,?,SC,,640,5120,1134.91,452735,786957,6400,219,640,40,transport-moving,68700,N
+Major Damage,movies,Single Vehicle Collision,Rear Collision,SC,Ambulance,7420,51940,1194.0,613583,332892,66780,88,7420,25,handlers-cleaners,0,Y
+Minor Damage,hiking,Parked Car,?,VA,Police,1460,5840,1248.25,605692,448642,8760,40,1460,39,sales,0,N
+Major Damage,kayaking,Single Vehicle Collision,Side Collision,NC,Ambulance,17120,68480,1338.54,438178,526039,94160,284,8560,42,machine-op-inspct,0,N
+Total Loss,golf,Multi-vehicle Collision,Front Collision,OH,Ambulance,11460,34380,782.23,449221,444422,51570,59,5730,40,protective-serv,64200,N
+Major Damage,polo,Multi-vehicle Collision,Rear Collision,NC,Fire,10540,31620,1366.9,459322,689500,52700,39,10540,31,handlers-cleaners,0,Y
+Minor Damage,dancing,Single Vehicle Collision,Side Collision,NY,Fire,15540,69930,1275.81,472657,806081,101010,147,15540,34,sales,0,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,NC,Police,5340,42720,1090.65,608331,384618,53400,156,5340,37,exec-managerial,0,Y
+Total Loss,basketball,Single Vehicle Collision,Side Collision,SC,Fire,12020,48080,1326.0,438546,756459,72120,123,12020,31,prof-specialty,0,N
+Minor Damage,reading,Multi-vehicle Collision,Front Collision,PA,Police,15420,53970,972.47,441981,655787,77100,231,7710,43,protective-serv,0,N
+Trivial Damage,dancing,Parked Car,?,SC,Police,0,2700,806.31,602177,419954,3300,247,600,39,handlers-cleaners,0,N
+Minor Damage,golf,Parked Car,?,WV,,540,4320,1416.24,441659,275092,5940,194,1080,35,adm-clerical,0,N
+Major Damage,video-games,Multi-vehicle Collision,Rear Collision,PA,Other,21240,35400,1097.64,614812,515698,63720,119,7080,27,transport-moving,27100,N
+Trivial Damage,base-jumping,Vehicle Theft,?,SC,Police,640,5760,947.75,458470,132871,7680,259,1280,43,farming-fishing,0,N
+Total Loss,yachting,Multi-vehicle Collision,Side Collision,NY,Police,21630,57680,1018.73,469646,714929,93730,107,14420,31,handlers-cleaners,20000,N
+Major Damage,base-jumping,Multi-vehicle Collision,Rear Collision,NC,Police,17460,52380,1400.74,611118,297816,87300,48,17460,44,sales,34000,N
+Trivial Damage,camping,Parked Car,?,NY,Police,630,3780,1155.53,465158,426708,5670,267,1260,40,transport-moving,0,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,NY,Other,6580,46060,1386.93,457130,615047,65800,286,13160,47,priv-house-serv,54100,N
+Major Damage,base-jumping,Single Vehicle Collision,Front Collision,NY,Other,4080,28560,915.29,607893,771236,36720,175,4080,34,handlers-cleaners,82400,Y
+Major Damage,kayaking,Single Vehicle Collision,Side Collision,SC,Fire,9600,38400,1239.55,464736,235869,52800,111,4800,29,farming-fishing,0,Y
+Total Loss,cross-fit,Multi-vehicle Collision,Rear Collision,SC,Fire,5910,47280,1366.42,476198,931625,59100,151,5910,37,protective-serv,44000,Y
+Total Loss,hiking,Multi-vehicle Collision,Rear Collision,NY,Other,7040,56320,1086.48,444903,371635,77440,156,14080,37,machine-op-inspct,0,N
+Total Loss,golf,Multi-vehicle Collision,Side Collision,NY,Fire,4570,36560,1247.87,464336,427199,45700,165,4570,36,armed-forces,0,N
+Major Damage,dancing,Multi-vehicle Collision,Rear Collision,SC,Other,14680,58720,1312.75,471453,261315,80740,253,7340,41,sales,81300,Y
+Major Damage,base-jumping,Multi-vehicle Collision,Front Collision,SC,Ambulance,5700,22800,765.64,466191,582973,31350,10,2850,26,sales,0,Y
+Total Loss,skydiving,Single Vehicle Collision,Side Collision,SC,Other,7000,24500,1327.41,440930,278091,35000,158,3500,33,handlers-cleaners,0,N
+Total Loss,board-games,Multi-vehicle Collision,Side Collision,WV,Police,6800,47600,1338.55,430380,153154,68000,436,13600,59,protective-serv,39000,N
+Minor Damage,golf,Multi-vehicle Collision,Side Collision,SC,Other,13000,58500,1316.63,613178,515217,84500,91,13000,30,machine-op-inspct,43900,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Rear Collision,WV,Police,15100,52850,1286.44,460564,860497,75500,256,7550,42,transport-moving,0,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Other,15100,60400,1372.18,439929,351741,90600,274,15100,46,exec-managerial,0,N
+Total Loss,camping,Multi-vehicle Collision,Side Collision,VA,Ambulance,10720,48240,1447.77,605756,403737,64320,275,5360,45,adm-clerical,39400,N
+Minor Damage,yachting,Multi-vehicle Collision,Rear Collision,NY,Police,3170,22190,903.32,451184,162004,31700,1,6340,33,transport-moving,0,N
+Major Damage,reading,Single Vehicle Collision,Side Collision,NY,Other,12380,49520,1454.42,459588,740384,74280,85,12380,30,protective-serv,51600,Y
+Total Loss,video-games,Single Vehicle Collision,Front Collision,NY,Fire,6710,60390,1603.42,616637,876714,80520,233,13420,37,sales,61600,N
+Major Damage,polo,Multi-vehicle Collision,Rear Collision,SC,Other,12720,44520,1616.58,447979,951543,63600,142,6360,30,adm-clerical,58500,N
+Total Loss,movies,Single Vehicle Collision,Front Collision,WV,Police,3280,26240,1611.83,460176,576723,32800,266,3280,44,handlers-cleaners,0,N
+Total Loss,board-games,Multi-vehicle Collision,Rear Collision,PA,Police,4910,29460,889.13,459429,391003,44190,350,9820,50,priv-house-serv,0,N
+Major Damage,sleeping,Multi-vehicle Collision,Rear Collision,VA,Other,5040,35280,1252.08,465456,225865,50400,97,10080,26,exec-managerial,0,Y
+Total Loss,sleeping,Multi-vehicle Collision,Side Collision,NY,Police,8840,61880,995.56,464665,984948,88400,399,17680,55,tech-support,0,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Front Collision,NY,Fire,6050,48400,1347.92,430853,890328,66550,305,12100,49,farming-fishing,0,N
+Minor Damage,yachting,Multi-vehicle Collision,Rear Collision,NY,Police,11960,47840,1724.09,615712,803294,65780,276,5980,47,craft-repair,0,N
+Major Damage,base-jumping,Multi-vehicle Collision,Side Collision,NY,Other,4710,37680,1379.93,608228,414913,51810,257,9420,40,armed-forces,0,Y
+Major Damage,board-games,Single Vehicle Collision,Front Collision,WV,Other,10120,40480,1554.64,457535,414519,55660,78,5060,31,protective-serv,0,Y
+Major Damage,base-jumping,Single Vehicle Collision,Side Collision,NY,Fire,4960,29760,1377.94,442540,818413,44640,129,9920,28,machine-op-inspct,0,N
+Major Damage,reading,Multi-vehicle Collision,Front Collision,NY,Ambulance,14120,56480,1313.33,455332,487356,77660,283,7060,46,transport-moving,53500,Y
+Trivial Damage,base-jumping,Parked Car,?,SC,,940,3760,1259.02,439534,159768,5640,85,940,25,tech-support,67000,N
+Trivial Damage,reading,Parked Car,?,VA,,580,2030,1371.88,462420,865839,3190,101,580,26,prof-specialty,0,N
+Total Loss,hiking,Single Vehicle Collision,Side Collision,NC,Fire,6680,46760,1399.27,448913,406567,53440,96,0,30,prof-specialty,38900,N
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,WV,Police,7250,50750,1061.98,440837,623032,65250,121,7250,31,armed-forces,0,N
+Minor Damage,sleeping,Multi-vehicle Collision,Side Collision,SC,Fire,4920,34440,1365.46,466634,935442,44280,176,4920,39,armed-forces,0,N
+Total Loss,camping,Single Vehicle Collision,Rear Collision,NY,Police,7810,54670,894.4,446435,106873,70290,159,7810,37,tech-support,0,N
+Minor Damage,movies,Single Vehicle Collision,Front Collision,NY,Other,8710,69680,956.69,438237,563878,87100,120,8710,30,priv-house-serv,39600,N
+Total Loss,video-games,Multi-vehicle Collision,Front Collision,NY,Fire,4580,41220,1123.89,468313,620855,50380,212,4580,35,priv-house-serv,35400,N
+Total Loss,cross-fit,Multi-vehicle Collision,Side Collision,VA,Police,6480,45360,1085.03,476303,583169,64800,290,12960,45,sales,0,Y
+Minor Damage,movies,Single Vehicle Collision,Rear Collision,SC,Other,12800,44800,1437.33,450339,337677,70400,299,12800,42,craft-repair,25000,N
+Major Damage,skydiving,Single Vehicle Collision,Rear Collision,NY,Police,10520,47340,988.29,476502,445973,57860,66,0,26,armed-forces,0,Y
+Minor Damage,sleeping,Vehicle Theft,?,WV,,960,4320,1238.89,600561,156694,6240,334,960,47,protective-serv,0,N
+Total Loss,board-games,Single Vehicle Collision,Rear Collision,VA,Police,11100,38850,1384.64,600754,421940,66600,216,16650,38,tech-support,0,Y
+Minor Damage,hiking,Single Vehicle Collision,Side Collision,VA,Police,11820,47280,1595.07,439304,613226,70920,86,11820,28,transport-moving,75800,N
+Minor Damage,skydiving,Single Vehicle Collision,Rear Collision,WV,Ambulance,6580,26320,1127.89,460722,804410,39480,429,6580,56,machine-op-inspct,67400,N
+Total Loss,base-jumping,Single Vehicle Collision,Front Collision,VA,Other,5270,47430,929.7,618632,553565,63240,257,10540,43,handlers-cleaners,46400,N
+Total Loss,cross-fit,Multi-vehicle Collision,Side Collision,SC,Other,6150,49200,1829.63,452204,399524,67650,15,12300,34,tech-support,56700,N
+Major Damage,bungie-jumping,Single Vehicle Collision,Front Collision,SC,Fire,14840,44520,904.7,454530,331595,74200,230,14840,39,craft-repair,68600,Y
+Minor Damage,polo,Single Vehicle Collision,Side Collision,VA,Other,12980,38940,1243.84,474848,380067,64900,250,12980,43,tech-support,47900,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,NC,Ambulance,3590,25130,1030.95,435985,701521,35900,270,7180,44,machine-op-inspct,47200,Y
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,VA,Fire,10440,36540,1285.03,457942,360770,52200,65,5220,26,craft-repair,0,N
+Minor Damage,skydiving,Single Vehicle Collision,Front Collision,SC,Police,13000,58500,1216.56,436522,958785,78000,475,6500,57,adm-clerical,67400,N
+Minor Damage,base-jumping,Multi-vehicle Collision,Front Collision,NY,Ambulance,6720,53760,966.26,471704,797934,67200,77,6720,27,adm-clerical,56400,N
+Total Loss,golf,Single Vehicle Collision,Rear Collision,WV,Fire,5750,46000,1203.17,455810,883980,63250,256,11500,43,prof-specialty,56700,N
+Major Damage,paintball,Multi-vehicle Collision,Side Collision,WV,Other,5730,51570,1212.12,446544,340614,68760,229,11460,37,craft-repair,65600,N
+Minor Damage,movies,Multi-vehicle Collision,Side Collision,NY,Police,10840,43360,1573.93,461919,435784,65040,110,10840,28,other-service,30400,N
+Major Damage,yachting,Single Vehicle Collision,Side Collision,SC,Ambulance,13800,48300,1609.67,470128,563837,82800,177,20700,33,adm-clerical,0,Y
+Total Loss,basketball,Single Vehicle Collision,Side Collision,SC,Other,6170,49360,1097.57,462836,200827,61700,292,6170,44,priv-house-serv,0,N
+Major Damage,polo,Multi-vehicle Collision,Rear Collision,OH,Ambulance,7810,54670,1618.65,475407,533941,78100,451,15620,61,transport-moving,0,Y
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,SC,Ambulance,9360,46800,922.67,473611,265026,65520,61,9360,24,priv-house-serv,47400,Y
+Trivial Damage,polo,Parked Car,?,VA,,450,3600,1342.02,608425,354481,4500,150,450,30,prof-specialty,0,N
+Major Damage,reading,Multi-vehicle Collision,Side Collision,WV,Other,6100,36600,1195.01,476227,566720,42700,283,0,41,sales,60700,Y
+Minor Damage,polo,Parked Car,?,SC,Police,620,4340,994.74,452701,832746,5580,291,620,46,adm-clerical,0,Y
+Minor Damage,chess,Parked Car,?,NC,,720,2520,1050.24,456789,386690,3600,162,360,31,adm-clerical,30700,Y
+Trivial Damage,dancing,Vehicle Theft,?,SC,,280,2240,1313.51,600904,979285,2800,154,280,36,exec-managerial,68500,N
+Minor Damage,hiking,Single Vehicle Collision,Front Collision,VA,Ambulance,6000,42000,1102.29,450889,594722,54000,289,6000,47,adm-clerical,73000,N
+Minor Damage,yachting,Single Vehicle Collision,Side Collision,NC,Police,8900,35600,1185.78,478837,216738,48950,10,4450,19,craft-repair,0,Y
+Major Damage,hiking,Multi-vehicle Collision,Rear Collision,WV,Other,15560,46680,1527.95,611322,369048,77800,309,15560,47,exec-managerial,69400,N
+Major Damage,exercise,Multi-vehicle Collision,Front Collision,NC,Other,5840,35040,1366.39,438180,514424,52560,396,11680,57,protective-serv,0,N
+Total Loss,dancing,Multi-vehicle Collision,Side Collision,VA,Police,8020,32080,1403.9,449793,954191,44110,273,4010,41,farming-fishing,0,N
+Total Loss,video-games,Single Vehicle Collision,Front Collision,SC,Other,6760,54080,927.23,450730,150181,74360,129,13520,30,sales,51500,N
+Minor Damage,base-jumping,Parked Car,?,WV,,680,4760,1554.86,608758,388671,6120,140,680,31,armed-forces,59000,Y
+Minor Damage,chess,Multi-vehicle Collision,Side Collision,SC,Police,10380,46710,736.07,445339,457244,62280,419,5190,53,transport-moving,45700,N
+Total Loss,reading,Multi-vehicle Collision,Front Collision,NY,Other,4860,17010,974.16,438328,206667,26730,315,4860,44,sales,0,N
+Major Damage,exercise,Single Vehicle Collision,Rear Collision,WV,Ambulance,6620,52960,973.8,479913,745200,66200,72,6620,29,craft-repair,0,N
+Total Loss,polo,Single Vehicle Collision,Side Collision,VA,Fire,4550,31850,1260.32,460760,412703,45500,32,9100,26,other-service,0,N
+Minor Damage,sleeping,Multi-vehicle Collision,Side Collision,NY,Ambulance,4420,44200,1464.03,444797,736771,53040,230,4420,41,transport-moving,0,N
+Major Damage,reading,Multi-vehicle Collision,Front Collision,VA,Other,5080,35560,617.11,436711,347984,50800,157,10160,32,other-service,0,Y
+Total Loss,sleeping,Multi-vehicle Collision,Side Collision,SC,Police,4420,35360,1724.46,432491,626074,44200,265,4420,41,craft-repair,81800,N
+Minor Damage,base-jumping,Single Vehicle Collision,Front Collision,SC,Police,5720,45760,1161.31,617527,218109,62920,47,11440,34,exec-managerial,64800,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,NY,Other,5550,38850,1091.73,601213,999435,49950,113,5550,29,exec-managerial,36100,Y
+Minor Damage,chess,Single Vehicle Collision,Rear Collision,NC,Ambulance,6270,43890,1209.07,604138,858060,56430,289,6270,46,armed-forces,0,Y
+Minor Damage,board-games,Single Vehicle Collision,Front Collision,NY,Police,18220,63770,1241.04,431361,500384,100210,254,18220,41,protective-serv,0,N
+Minor Damage,base-jumping,Multi-vehicle Collision,Front Collision,NY,Fire,5460,38220,1757.21,477695,903785,49140,115,5460,30,prof-specialty,46400,N
+Major Damage,paintball,Single Vehicle Collision,Side Collision,WV,Ambulance,5570,44560,802.24,612597,873859,66840,236,16710,38,other-service,0,N
+Total Loss,camping,Single Vehicle Collision,Front Collision,NY,Other,6940,48580,1342.72,445638,204294,62460,7,6940,21,machine-op-inspct,0,N
+Total Loss,base-jumping,Multi-vehicle Collision,Side Collision,NY,Other,11420,39970,1209.41,476185,467106,62810,208,11420,36,machine-op-inspct,0,N
+Major Damage,sleeping,Single Vehicle Collision,Front Collision,WV,Ambulance,6770,40620,1141.71,435995,357713,54160,126,6770,33,priv-house-serv,36700,N
+Major Damage,golf,Single Vehicle Collision,Rear Collision,WV,Ambulance,4840,33880,1090.03,430232,890026,48400,48,9680,35,exec-managerial,0,N
+Total Loss,golf,Multi-vehicle Collision,Side Collision,NY,Fire,5720,40040,1464.73,443861,751612,51480,297,5720,48,exec-managerial,54900,N
+Total Loss,board-games,Multi-vehicle Collision,Rear Collision,NY,Fire,10340,36190,1118.58,460801,876680,51700,160,5170,36,prof-specialty,0,N
+Total Loss,video-games,Multi-vehicle Collision,Front Collision,WV,Other,5460,49140,1117.04,605121,756981,65520,406,10920,58,exec-managerial,0,N
+Major Damage,reading,Multi-vehicle Collision,Rear Collision,OH,Other,9540,33390,1257.83,458622,121439,47700,157,4770,31,farming-fishing,40700,Y
+Minor Damage,video-games,Vehicle Theft,?,SC,,580,4060,1082.72,478661,411289,5220,146,580,31,machine-op-inspct,61400,N
+Major Damage,exercise,Single Vehicle Collision,Side Collision,NY,Other,12220,54990,1191.8,435299,538466,73320,409,6110,57,protective-serv,55600,N
+Minor Damage,dancing,Single Vehicle Collision,Front Collision,VA,Fire,7490,52430,1242.02,601961,932097,74900,252,14980,46,adm-clerical,0,N
+Trivial Damage,dancing,Vehicle Theft,?,WV,Police,290,2320,1075.71,604328,463727,3190,6,580,27,prof-specialty,0,N
+Minor Damage,exercise,Single Vehicle Collision,Rear Collision,NY,Ambulance,6410,57690,969.88,614385,552618,76920,103,12820,33,armed-forces,0,N
+Total Loss,video-games,Multi-vehicle Collision,Front Collision,WV,Police,14180,56720,1459.93,438584,936638,77990,369,7090,53,priv-house-serv,0,N
+Total Loss,base-jumping,Single Vehicle Collision,Front Collision,NY,Fire,9180,41310,1245.61,478703,348814,59670,261,9180,46,transport-moving,0,N
+Major Damage,skydiving,Multi-vehicle Collision,Rear Collision,NY,Ambulance,4080,32640,1462.76,615683,944102,44880,159,8160,33,craft-repair,69200,Y
+Minor Damage,skydiving,Single Vehicle Collision,Side Collision,NC,Ambulance,15060,60240,1398.46,455672,689901,82830,344,7530,51,sales,0,N
+Minor Damage,cross-fit,Single Vehicle Collision,Front Collision,SC,Other,15360,61440,1269.64,602942,901083,84480,437,7680,60,armed-forces,48800,Y
+Total Loss,skydiving,Multi-vehicle Collision,Side Collision,WV,Fire,7980,55860,1455.65,616706,396224,79800,65,15960,30,transport-moving,0,N
+Minor Damage,exercise,Multi-vehicle Collision,Rear Collision,WV,Police,9640,33740,1140.31,473243,682178,53020,280,9640,41,adm-clerical,29300,N
+Total Loss,sleeping,Multi-vehicle Collision,Side Collision,VA,Police,4400,17600,1330.46,435552,596298,24200,269,2200,45,machine-op-inspct,54800,N
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,OH,Fire,7860,27510,1190.6,434206,253005,43230,275,7860,40,exec-managerial,0,N
+Trivial Damage,cross-fit,Vehicle Theft,?,NC,,580,2320,972.5,469895,985924,3190,265,290,45,exec-managerial,0,N
+Minor Damage,polo,Parked Car,?,WV,,650,3900,1161.91,457722,631565,5850,283,1300,43,adm-clerical,0,N
+Trivial Damage,video-games,Parked Car,?,SC,Police,1240,4960,1117.17,473645,630998,6820,84,620,29,machine-op-inspct,0,N
+Minor Damage,camping,Multi-vehicle Collision,Front Collision,NY,Fire,11580,46320,1101.51,619108,926665,69480,247,11580,44,farming-fishing,64000,N
+Major Damage,movies,Multi-vehicle Collision,Front Collision,PA,Fire,15760,70920,1523.17,610479,302669,94560,56,7880,29,prof-specialty,0,N
+Minor Damage,paintball,Vehicle Theft,?,NC,,780,6240,984.45,474998,620020,7800,210,780,39,armed-forces,0,N
+Total Loss,basketball,Single Vehicle Collision,Front Collision,WV,Other,11140,44560,1257.0,616341,439828,61270,108,5570,32,machine-op-inspct,63900,N
+Total Loss,bungie-jumping,Single Vehicle Collision,Rear Collision,NY,Police,8930,53580,1434.51,460535,971295,71440,328,8930,49,transport-moving,0,N
+Total Loss,exercise,Single Vehicle Collision,Rear Collision,NY,Ambulance,5560,38920,1628.0,606487,165565,55600,186,11120,37,priv-house-serv,0,N
+Trivial Damage,board-games,Vehicle Theft,?,NC,Police,500,3500,1412.31,620737,936543,5000,277,1000,44,priv-house-serv,0,N
+Minor Damage,paintball,Single Vehicle Collision,Side Collision,NY,Other,14740,66330,1362.87,445904,296960,95810,138,14740,33,exec-managerial,56900,N
+Major Damage,chess,Single Vehicle Collision,Rear Collision,SC,Ambulance,13860,48510,1134.68,464145,501692,69300,208,6930,41,tech-support,0,N
+Total Loss,video-games,Single Vehicle Collision,Front Collision,SC,Ambulance,20280,47320,1306.78,466818,525224,81120,147,13520,37,prof-specialty,0,N
+Major Damage,hiking,Single Vehicle Collision,Front Collision,WV,Other,14040,63180,1021.9,464237,355085,91260,8,14040,21,handlers-cleaners,0,N
+Minor Damage,kayaking,Single Vehicle Collision,Side Collision,SC,Fire,12120,42420,1538.6,618455,830729,60600,297,6060,48,other-service,0,N
+Major Damage,base-jumping,Multi-vehicle Collision,Front Collision,NY,Ambulance,12960,45360,1354.5,456602,651948,64800,150,6480,31,machine-op-inspct,52800,Y
+Major Damage,basketball,Multi-vehicle Collision,Side Collision,WV,Police,12160,48640,1282.93,616126,424358,66880,4,6080,34,exec-managerial,0,Y
+Total Loss,cross-fit,Single Vehicle Collision,Front Collision,WV,Ambulance,5820,46560,1346.27,468508,131478,58200,210,5820,35,farming-fishing,44900,N
+Minor Damage,polo,Single Vehicle Collision,Side Collision,NC,Police,6730,47110,1338.4,431937,268833,60570,91,6730,31,priv-house-serv,63600,N
+Major Damage,camping,Multi-vehicle Collision,Rear Collision,NC,Ambulance,8710,52260,949.44,448603,287489,69680,167,8710,36,exec-managerial,0,Y
+Total Loss,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Fire,11140,38990,977.4,444500,808153,55700,467,5570,58,transport-moving,82200,N
+Total Loss,sleeping,Multi-vehicle Collision,Front Collision,OH,Ambulance,5670,51030,1181.46,601117,687639,62370,264,5670,47,transport-moving,0,N
+Total Loss,yachting,Multi-vehicle Collision,Side Collision,VA,Other,0,44460,1187.53,615383,497347,54340,270,9880,45,priv-house-serv,83200,N
+Major Damage,base-jumping,Single Vehicle Collision,Front Collision,NC,Police,6130,42910,845.16,434342,439660,55170,310,6130,48,priv-house-serv,0,Y
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,NY,Other,5850,40950,1442.27,435100,847123,58500,143,11700,34,priv-house-serv,67900,N
+Major Damage,skydiving,Single Vehicle Collision,Rear Collision,NC,Fire,6660,46620,1276.43,431278,172307,59940,146,6660,32,priv-house-serv,0,N
+Total Loss,reading,Single Vehicle Collision,Side Collision,PA,Police,7340,58720,1075.41,445648,810189,73400,102,7340,28,machine-op-inspct,55200,N
+Major Damage,bungie-jumping,Single Vehicle Collision,Side Collision,PA,Fire,4650,32550,1111.72,448857,432068,41850,61,4650,23,exec-managerial,54600,N
+Trivial Damage,chess,Parked Car,?,NC,Police,1280,4480,814.96,435267,903203,6400,255,640,44,priv-house-serv,68500,Y
+Trivial Damage,sleeping,Vehicle Theft,?,WV,Police,290,2320,1575.86,461275,253085,3190,211,580,40,other-service,0,N
+Trivial Damage,polo,Parked Car,?,VA,,590,4720,1115.27,613816,180720,5900,61,590,29,handlers-cleaners,0,N
+Total Loss,yachting,Single Vehicle Collision,Rear Collision,NY,Fire,6370,44590,1175.7,608767,492224,57330,108,6370,31,protective-serv,0,N
+Total Loss,board-games,Multi-vehicle Collision,Front Collision,WV,Other,13660,54640,793.15,620869,411477,81960,303,13660,50,tech-support,54600,N
+Major Damage,exercise,Single Vehicle Collision,Side Collision,SC,Fire,19200,44800,942.51,478981,107181,70400,152,6400,33,transport-moving,0,Y
+Minor Damage,paintball,Parked Car,?,VA,,580,2610,1056.71,464630,312940,3770,120,580,34,protective-serv,77900,N
+Minor Damage,reading,Parked Car,?,NC,,1480,5180,1255.68,466303,855186,7400,144,740,36,sales,23600,N
+Total Loss,chess,Single Vehicle Collision,Rear Collision,SC,Police,6090,42630,1335.13,452647,373935,54810,414,6090,52,farming-fishing,44000,Y
+Total Loss,dancing,Single Vehicle Collision,Rear Collision,NY,Fire,9880,34580,1178.95,441370,812989,49400,163,4940,37,priv-house-serv,0,N
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,NC,Fire,6250,50000,1793.16,619166,993840,68750,352,12500,53,tech-support,0,N
+Total Loss,yachting,Single Vehicle Collision,Front Collision,SC,Ambulance,6150,43050,1008.38,472803,327856,61500,27,12300,32,adm-clerical,37900,N
+Major Damage,reading,Multi-vehicle Collision,Rear Collision,WV,Ambulance,13980,55920,1396.83,442308,506333,76890,239,6990,39,other-service,0,N
+Minor Damage,base-jumping,Single Vehicle Collision,Rear Collision,NY,Ambulance,12460,37380,1402.78,469383,263159,56070,33,6230,32,other-service,70300,N
+Total Loss,reading,Single Vehicle Collision,Side Collision,SC,Fire,0,42000,1437.88,614383,372912,56000,88,14000,30,transport-moving,42800,N
+Trivial Damage,board-games,Parked Car,?,NY,,390,3120,1313.64,438617,552788,4290,101,780,33,priv-house-serv,12100,N
+Total Loss,reading,Multi-vehicle Collision,Rear Collision,NY,Other,6750,47250,1482.14,613936,722747,60750,20,6750,37,transport-moving,33000,N
+Minor Damage,board-games,Single Vehicle Collision,Side Collision,NY,Other,4430,39870,1171.75,472163,248467,48730,126,4430,30,machine-op-inspct,46500,N
+Minor Damage,video-games,Multi-vehicle Collision,Front Collision,WV,Police,17300,60550,1353.33,447458,955953,95150,264,17300,43,adm-clerical,0,N
+Minor Damage,yachting,Vehicle Theft,?,NY,Police,680,6120,1175.51,474792,910622,7480,78,680,24,craft-repair,0,N
+Major Damage,movies,Single Vehicle Collision,Side Collision,NC,Ambulance,6650,59850,1836.02,470559,137675,79800,123,13300,28,transport-moving,38000,Y
+Total Loss,board-games,Single Vehicle Collision,Side Collision,NC,Other,17260,77670,1480.79,432399,343421,103560,347,8630,51,priv-house-serv,0,N
+Minor Damage,yachting,Single Vehicle Collision,Side Collision,NY,Ambulance,7950,55650,1453.92,607605,413192,79500,163,15900,38,other-service,51700,N
+Minor Damage,base-jumping,Single Vehicle Collision,Rear Collision,SC,Other,13860,55440,1340.71,600153,247801,76230,271,6930,44,tech-support,0,Y
+Minor Damage,board-games,Single Vehicle Collision,Side Collision,WV,Ambulance,9920,39680,714.03,465979,171147,59520,410,9920,54,protective-serv,0,N
+Major Damage,hiking,Multi-vehicle Collision,Front Collision,SC,Police,5970,35820,1376.16,466555,431283,47760,448,5970,57,tech-support,38600,Y
+Total Loss,golf,Multi-vehicle Collision,Side Collision,NY,Police,7690,61520,914.22,444155,461962,84590,218,15380,41,prof-specialty,37900,N
+Total Loss,skydiving,Multi-vehicle Collision,Front Collision,SC,Other,6850,47950,1601.47,465764,149467,61650,43,6850,38,handlers-cleaners,64400,N
+Major Damage,dancing,Single Vehicle Collision,Rear Collision,VA,Police,8140,65120,1096.79,446898,758740,81400,33,8140,33,handlers-cleaners,45500,N
+Major Damage,camping,Multi-vehicle Collision,Side Collision,SC,Fire,5310,42480,1078.22,453274,628337,58410,126,10620,34,transport-moving,54500,N
+Major Damage,exercise,Multi-vehicle Collision,Side Collision,VA,Ambulance,3510,31590,1595.28,479320,574637,38610,411,3510,56,protective-serv,0,N
+Minor Damage,yachting,Multi-vehicle Collision,Front Collision,WV,Fire,9600,38400,1217.84,443462,373600,57600,225,9600,37,farming-fishing,49600,N
+Minor Damage,kayaking,Multi-vehicle Collision,Side Collision,NC,Fire,11820,35460,1117.42,446158,930032,53190,35,5910,35,protective-serv,0,N
+Major Damage,skydiving,Single Vehicle Collision,Front Collision,NY,Other,11660,40810,1567.37,602514,396590,58300,460,5830,57,craft-repair,62500,Y
+Minor Damage,video-games,Multi-vehicle Collision,Front Collision,WV,Ambulance,0,57440,1294.93,477356,238412,64620,195,7180,38,tech-support,38000,N
+Total Loss,hiking,Multi-vehicle Collision,Side Collision,WV,Ambulance,15080,60320,1152.12,434669,484321,90480,360,15080,51,armed-forces,0,N
+Trivial Damage,kayaking,Vehicle Theft,?,SC,,1180,4720,1441.21,609322,795847,7080,300,1180,49,farming-fishing,0,N
+Minor Damage,chess,Parked Car,?,PA,Police,1180,4720,1575.74,614265,218456,6490,245,590,42,exec-managerial,0,Y
+Total Loss,golf,Multi-vehicle Collision,Side Collision,NC,Police,5590,44720,1233.96,606177,792673,55900,146,5590,36,other-service,34500,N
+Major Damage,polo,Single Vehicle Collision,Rear Collision,SC,Other,6380,51040,1861.43,461514,662256,63800,67,6380,29,adm-clerical,60400,Y
+Total Loss,cross-fit,Single Vehicle Collision,Side Collision,VA,Police,7270,43620,1570.86,454685,971338,58160,380,7270,56,farming-fishing,66000,Y
+Minor Damage,chess,Vehicle Theft,?,NC,Police,1260,4410,791.47,477260,714738,6300,389,630,53,armed-forces,0,Y
+Major Damage,yachting,Single Vehicle Collision,Front Collision,WV,Fire,19020,66570,1012.78,469126,753844,104610,317,19020,46,sales,43700,Y
+Major Damage,sleeping,Multi-vehicle Collision,Rear Collision,SC,Fire,6350,50800,1047.06,443402,976645,69850,264,12700,44,exec-managerial,0,N
+Minor Damage,polo,Single Vehicle Collision,Rear Collision,PA,Fire,6290,44030,1390.29,479408,918037,62900,20,12580,21,priv-house-serv,0,N
+Major Damage,golf,Multi-vehicle Collision,Front Collision,WV,Other,6630,46410,951.46,467227,996253,59670,116,6630,30,handlers-cleaners,0,Y
+Minor Damage,camping,Multi-vehicle Collision,Rear Collision,NY,Other,8150,57050,1226.78,468433,373731,81500,222,16300,40,armed-forces,49600,N
+Minor Damage,video-games,Single Vehicle Collision,Rear Collision,NC,Ambulance,5000,30000,1280.9,604289,836272,50000,439,15000,56,armed-forces,48900,N
+Total Loss,exercise,Single Vehicle Collision,Front Collision,NY,Other,8780,30730,1472.77,471366,167231,48290,66,8780,28,adm-clerical,0,N
+Total Loss,golf,Single Vehicle Collision,Rear Collision,VA,Fire,5370,48330,1878.44,450746,743330,59070,128,5370,29,other-service,0,N
+Minor Damage,yachting,Multi-vehicle Collision,Rear Collision,NY,Police,6330,44310,1418.5,614948,807369,63300,69,12660,24,armed-forces,0,N
+Total Loss,exercise,Single Vehicle Collision,Side Collision,SC,Other,11960,41860,1532.8,473935,735307,65780,294,11960,46,prof-specialty,0,N
+Total Loss,cross-fit,Multi-vehicle Collision,Front Collision,NY,Ambulance,11600,52200,1304.35,617267,789208,75400,19,11600,29,transport-moving,0,Y
+Minor Damage,movies,Vehicle Theft,?,WV,,250,1750,1551.61,470670,585324,2250,191,250,33,armed-forces,45000,N
+Minor Damage,reading,Multi-vehicle Collision,Front Collision,VA,Ambulance,9020,40590,1326.98,450368,498759,54120,4,4510,39,machine-op-inspct,64200,N
+Major Damage,camping,Multi-vehicle Collision,Side Collision,NY,Other,11580,46320,862.92,448809,795004,69480,298,11580,49,machine-op-inspct,0,N
+Minor Damage,reading,Single Vehicle Collision,Rear Collision,NY,Police,10300,46350,1331.69,469653,203250,66950,231,10300,43,adm-clerical,0,N
+Major Damage,board-games,Multi-vehicle Collision,Rear Collision,OH,Other,6410,44870,1486.04,615688,430794,64100,338,12820,47,armed-forces,0,Y
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,SC,Other,13380,53520,870.55,465631,156636,80280,261,13380,46,prof-specialty,0,N
+Trivial Damage,hiking,Vehicle Theft,?,NY,Police,0,4160,1344.56,443344,284143,4680,321,520,44,machine-op-inspct,0,N
+Minor Damage,base-jumping,Multi-vehicle Collision,Rear Collision,NY,Ambulance,6620,26480,1377.04,441363,740518,39720,0,6620,32,tech-support,61400,N
+Major Damage,exercise,Single Vehicle Collision,Front Collision,NY,Police,5780,52020,1237.88,462683,445289,63580,405,5780,58,exec-managerial,0,Y
+Minor Damage,camping,Single Vehicle Collision,Side Collision,NC,Other,6670,53360,1525.86,463184,599262,73370,304,13340,49,craft-repair,0,N
+Minor Damage,paintball,Single Vehicle Collision,Side Collision,SC,Police,23670,55230,854.58,612826,357949,86790,1,7890,29,craft-repair,52200,N
+Major Damage,sleeping,Single Vehicle Collision,Side Collision,WV,Police,4980,34860,770.76,433155,493161,49800,26,9960,39,tech-support,0,N
+Major Damage,exercise,Single Vehicle Collision,Side Collision,WV,Other,14080,56320,1132.74,616120,320251,77440,202,7040,38,armed-forces,0,N
+Total Loss,board-games,Single Vehicle Collision,Front Collision,SC,Other,0,34320,1173.37,461744,231127,42900,289,8580,48,handlers-cleaners,0,N
+Major Damage,skydiving,Multi-vehicle Collision,Rear Collision,VA,Fire,5980,35880,1188.28,475916,766193,53820,61,11960,26,farming-fishing,0,Y
+Minor Damage,reading,Single Vehicle Collision,Rear Collision,WV,Police,6370,38220,876.88,454434,555374,57330,334,12740,46,sales,0,N
+Minor Damage,paintball,Multi-vehicle Collision,Rear Collision,NY,Police,5930,41510,1143.95,464353,491484,53370,12,5930,24,tech-support,51400,N
+Minor Damage,yachting,Single Vehicle Collision,Front Collision,NY,Police,14520,38720,1409.06,610302,925128,62920,86,9680,29,prof-specialty,74200,N
+Total Loss,board-games,Multi-vehicle Collision,Front Collision,NY,Fire,12320,43120,1070.63,462106,265093,61600,83,6160,24,machine-op-inspct,0,N
+Total Loss,golf,Multi-vehicle Collision,Rear Collision,NY,Police,12360,55620,916.13,431389,267808,74160,126,6180,30,sales,55300,N
+Total Loss,reading,Single Vehicle Collision,Rear Collision,WV,Police,8900,62300,1191.5,442866,116735,80100,209,8900,38,priv-house-serv,38600,N
+Trivial Damage,paintball,Parked Car,?,NY,Police,820,4920,1474.66,446755,963680,6560,283,820,48,sales,0,N
+Total Loss,hiking,Single Vehicle Collision,Rear Collision,WV,Ambulance,5880,41160,1193.45,464743,445694,58800,194,11760,34,other-service,0,N
+Minor Damage,chess,Multi-vehicle Collision,Side Collision,PA,Ambulance,5970,35820,1437.53,437889,215534,53730,184,11940,38,transport-moving,0,Y
+Total Loss,cross-fit,Single Vehicle Collision,Rear Collision,NY,Ambulance,10100,45450,1304.83,473638,232854,60600,479,5050,60,other-service,0,N
+Total Loss,movies,Single Vehicle Collision,Side Collision,NY,Other,3250,26000,1168.8,444232,168260,35750,284,6500,48,tech-support,0,N
+Total Loss,exercise,Single Vehicle Collision,Front Collision,WV,Ambulance,7140,32130,1164.97,477695,538955,42840,65,3570,27,adm-clerical,43000,N
+Major Damage,hiking,Multi-vehicle Collision,Front Collision,SC,Fire,14660,58640,1232.72,458237,243226,87960,222,14660,39,armed-forces,87800,Y
+Minor Damage,camping,Multi-vehicle Collision,Rear Collision,SC,Ambulance,4780,38240,1800.76,441499,246435,47800,196,4780,41,protective-serv,0,N
+Trivial Damage,exercise,Vehicle Theft,?,NY,Police,640,2560,1187.01,613436,582480,3840,253,640,43,tech-support,46300,N
+Total Loss,hiking,Single Vehicle Collision,Front Collision,NY,Fire,7000,56000,1559.34,448912,345539,77000,280,14000,43,transport-moving,0,N
+Total Loss,skydiving,Single Vehicle Collision,Rear Collision,WV,Ambulance,16020,56070,1137.02,468872,924318,88110,5,16020,26,farming-fishing,31500,N
+Minor Damage,hiking,Multi-vehicle Collision,Rear Collision,SC,Fire,4340,39060,1281.72,619811,726880,47740,220,4340,42,farming-fishing,33500,N
+Total Loss,video-games,Multi-vehicle Collision,Rear Collision,SC,Fire,10720,42880,796.35,614166,190588,58960,85,5360,30,craft-repair,72400,N
+Minor Damage,skydiving,Parked Car,?,NC,Police,240,1440,1270.02,456600,246705,2160,266,480,46,tech-support,0,N
+Trivial Damage,exercise,Vehicle Theft,?,SC,Police,1060,5300,1383.13,618405,619589,6890,41,530,26,prof-specialty,46700,N
+Major Damage,kayaking,Multi-vehicle Collision,Side Collision,VA,Ambulance,14340,57360,1290.74,430832,164988,78870,316,7170,45,prof-specialty,58300,N
+Trivial Damage,basketball,Vehicle Theft,?,SC,Police,300,2100,1216.68,610989,729534,2700,285,300,47,sales,55100,N
+Total Loss,kayaking,Single Vehicle Collision,Front Collision,WV,Ambulance,6330,63300,1251.16,447750,505014,75960,379,6330,54,machine-op-inspct,41400,N
+Major Damage,video-games,Single Vehicle Collision,Front Collision,WV,Police,13740,54960,1586.41,608708,920826,75570,15,6870,34,sales,33500,Y
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,SC,Police,15040,60160,1526.11,469650,534982,90240,354,15040,48,sales,0,N
+Major Damage,dancing,Single Vehicle Collision,Front Collision,SC,Ambulance,7360,58880,1028.44,602304,110408,80960,342,14720,53,prof-specialty,0,N
+Total Loss,skydiving,Multi-vehicle Collision,Front Collision,VA,Other,13180,59310,1555.94,459878,283052,79080,169,6590,38,craft-repair,23300,N
+Minor Damage,paintball,Vehicle Theft,?,SC,,620,4960,1570.77,441142,840806,6820,339,1240,49,adm-clerical,98800,N
+Total Loss,sleeping,Multi-vehicle Collision,Rear Collision,WV,Fire,11380,45520,1170.53,465667,382394,62590,259,5690,42,armed-forces,65000,N
+Major Damage,dancing,Single Vehicle Collision,Side Collision,NY,Other,6550,39300,1099.95,473109,876699,52400,65,6550,23,sales,0,Y
+Major Damage,basketball,Multi-vehicle Collision,Front Collision,WV,Ambulance,11560,46240,1472.43,619794,871432,63580,254,5780,46,tech-support,0,N
+Minor Damage,reading,Multi-vehicle Collision,Side Collision,NY,Police,6140,49120,1275.62,602258,379882,61400,440,6140,55,priv-house-serv,0,N
+Minor Damage,paintball,Parked Car,?,VA,,470,3290,1292.3,479724,852002,4700,478,940,63,adm-clerical,47600,Y
+Total Loss,hiking,Single Vehicle Collision,Front Collision,SC,Fire,13480,47180,1009.37,442210,372891,74140,230,13480,44,prof-specialty,45400,N
+Major Damage,reading,Single Vehicle Collision,Front Collision,VA,Other,13860,62370,1093.07,463291,689034,83160,138,6930,30,other-service,27700,N
+Trivial Damage,paintball,Parked Car,?,NC,Police,830,8300,1325.44,474898,743092,10790,239,1660,41,farming-fishing,51400,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,NC,Police,8740,30590,1017.18,431354,599174,48070,93,8740,31,prof-specialty,0,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,SC,Ambulance,11340,34020,1221.17,617460,421092,51030,37,5670,25,protective-serv,49300,N
+Minor Damage,yachting,Single Vehicle Collision,Front Collision,VA,Fire,5410,37870,1927.87,609317,349658,43280,254,0,40,prof-specialty,0,Y
+Major Damage,paintball,Single Vehicle Collision,Front Collision,SC,Fire,7640,53480,978.27,479821,811042,76400,131,15280,29,sales,65700,N
+Total Loss,board-games,Single Vehicle Collision,Side Collision,VA,Ambulance,13720,48020,1221.14,473394,505316,75460,230,13720,43,prof-specialty,48100,N
+Major Damage,polo,Multi-vehicle Collision,Side Collision,OH,Other,6900,48300,1255.62,603882,116645,69000,313,13800,50,armed-forces,0,Y
+Minor Damage,golf,Vehicle Theft,?,VA,Police,720,6480,999.52,615229,950880,8640,210,1440,38,tech-support,0,N
+Minor Damage,dancing,Multi-vehicle Collision,Rear Collision,SC,Ambulance,12220,42770,1380.89,620197,788502,67210,101,12220,29,armed-forces,30000,N
+Total Loss,basketball,Multi-vehicle Collision,Side Collision,NC,Ambulance,4250,34000,1010.77,438215,627486,42500,153,4250,37,transport-moving,52300,N
+Minor Damage,basketball,Single Vehicle Collision,Rear Collision,SC,Fire,7200,64800,1205.86,444583,498842,86400,337,14400,53,armed-forces,0,N
+Minor Damage,chess,Vehicle Theft,?,SC,Police,840,2940,1526.61,471866,550294,4620,360,840,51,handlers-cleaners,0,Y
+Trivial Damage,camping,Parked Car,?,NC,Police,1260,5040,1496.44,616884,328387,6930,428,630,53,tech-support,0,N
+Minor Damage,hiking,Multi-vehicle Collision,Side Collision,SC,Other,8340,25020,1256.2,448310,540152,41700,204,8340,40,sales,0,N
+Major Damage,board-games,Single Vehicle Collision,Rear Collision,NY,Other,14060,49210,1268.35,478902,385932,77330,364,14060,51,transport-moving,0,Y
+Trivial Damage,sleeping,Vehicle Theft,?,WV,Police,450,3600,1421.59,442695,618682,4950,185,900,35,other-service,0,N
+Minor Damage,polo,Vehicle Theft,?,NC,Police,860,3440,1500.04,613826,550930,5160,63,860,26,craft-repair,0,N
+Total Loss,yachting,Multi-vehicle Collision,Side Collision,WV,Fire,2730,19110,1433.24,476203,998192,24570,210,2730,35,exec-managerial,0,Y
+Minor Damage,movies,Multi-vehicle Collision,Rear Collision,WV,Ambulance,9760,39040,1231.25,604333,663938,53680,194,4880,38,craft-repair,46500,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Police,3900,35100,1135.43,442604,756870,42900,294,3900,49,farming-fishing,22700,N
+Minor Damage,chess,Single Vehicle Collision,Front Collision,NY,Fire,8410,58870,945.73,435663,337158,84100,272,16820,41,protective-serv,38600,Y
+Total Loss,dancing,Single Vehicle Collision,Front Collision,NY,Fire,6840,47880,1118.76,470866,919875,61560,27,6840,27,adm-clerical,0,N
+Minor Damage,hiking,Single Vehicle Collision,Rear Collision,NY,Police,5530,33180,1231.98,612908,315631,44240,251,5530,39,other-service,0,N
+Minor Damage,hiking,Multi-vehicle Collision,Rear Collision,VA,Ambulance,5770,40390,1005.47,441871,113464,57700,180,11540,33,protective-serv,58100,N
+Minor Damage,exercise,Single Vehicle Collision,Side Collision,WV,Other,16620,74790,1108.97,431496,556415,108030,392,16620,50,exec-managerial,68400,N
+Minor Damage,dancing,Single Vehicle Collision,Rear Collision,SC,Fire,5430,38010,1392.39,436499,250249,54300,143,10860,30,exec-managerial,0,N
+Major Damage,movies,Multi-vehicle Collision,Front Collision,SC,Ambulance,5380,21520,1317.97,469853,403776,32280,371,5380,54,craft-repair,34700,Y
+Total Loss,camping,Multi-vehicle Collision,Rear Collision,WV,Other,8460,59220,1588.22,605369,396002,84600,292,16920,42,machine-op-inspct,0,N
+Total Loss,camping,Single Vehicle Collision,Front Collision,SC,Other,6970,55760,900.02,448466,976908,69700,165,6970,35,craft-repair,0,N
+Total Loss,movies,Multi-vehicle Collision,Rear Collision,WV,Ambulance,7280,25480,1744.64,432786,509489,36400,158,3640,33,prof-specialty,0,N
+Minor Damage,paintball,Multi-vehicle Collision,Side Collision,SC,Police,4690,28140,1260.56,473591,485295,37520,241,4690,39,adm-clerical,0,N
+Major Damage,paintball,Multi-vehicle Collision,Side Collision,NY,Ambulance,14380,50330,1021.14,618418,361829,79090,103,14380,33,other-service,69500,N
+Major Damage,board-games,Single Vehicle Collision,Rear Collision,NY,Other,15060,45180,1285.09,444558,603632,67770,402,7530,54,farming-fishing,48000,Y
+Total Loss,chess,Single Vehicle Collision,Side Collision,OH,Other,4740,33180,1537.07,457733,783494,47400,102,9480,32,tech-support,0,Y
+Total Loss,skydiving,Single Vehicle Collision,Front Collision,SC,Other,14220,49770,1022.42,466161,439049,71100,182,7110,40,other-service,50000,N
+Minor Damage,dancing,Single Vehicle Collision,Front Collision,NY,Police,6940,48580,1558.86,450800,502634,69400,282,13880,46,other-service,51100,N
+Major Damage,board-games,Multi-vehicle Collision,Rear Collision,SC,Other,10000,40000,1757.87,458993,378588,55000,222,5000,39,transport-moving,71400,Y
+Total Loss,polo,Multi-vehicle Collision,Rear Collision,WV,Police,7860,35370,973.5,468634,794731,51090,415,7860,52,machine-op-inspct,50400,N
+Major Damage,camping,Single Vehicle Collision,Side Collision,NY,Fire,19260,38520,1430.8,461264,641934,64200,51,6420,34,machine-op-inspct,0,Y
+Total Loss,base-jumping,Single Vehicle Collision,Front Collision,NC,Other,12240,42840,1192.27,600184,113516,67320,255,12240,45,sales,0,N
+Major Damage,movies,Multi-vehicle Collision,Side Collision,NC,Other,13840,55360,1163.83,604874,425631,76120,143,6920,31,protective-serv,37700,N
+Minor Damage,movies,Multi-vehicle Collision,Front Collision,SC,Ambulance,13080,58860,1003.15,462377,542245,85020,130,13080,28,farming-fishing,0,N
+Minor Damage,polo,Multi-vehicle Collision,Rear Collision,NY,Fire,12380,43330,1153.54,619657,512894,68090,242,12380,41,protective-serv,0,N
+Trivial Damage,exercise,Parked Car,?,WV,Police,670,4690,1631.1,437323,633090,6030,96,670,27,priv-house-serv,0,N
+Minor Damage,yachting,Vehicle Theft,?,OH,,510,3570,1252.48,432148,464234,5100,180,1020,35,machine-op-inspct,0,N
+Trivial Damage,yachting,Vehicle Theft,?,WV,Police,510,3570,1677.26,439690,290162,4590,150,510,30,sales,40100,N
+Major Damage,yachting,Multi-vehicle Collision,Front Collision,SC,Other,14480,50680,979.73,601848,638155,72400,463,7240,59,exec-managerial,51700,Y
+Major Damage,skydiving,Single Vehicle Collision,Front Collision,NY,Fire,7090,49630,989.24,615821,911429,70900,472,14180,64,other-service,0,N
+Total Loss,hiking,Multi-vehicle Collision,Side Collision,WV,Other,6510,52080,1389.86,472475,106186,65100,75,6510,25,priv-house-serv,0,N
+Total Loss,chess,Multi-vehicle Collision,Side Collision,PA,Ambulance,14280,49980,1233.85,457463,311783,64260,193,0,40,handlers-cleaners,0,N
+Major Damage,yachting,Single Vehicle Collision,Rear Collision,WV,Ambulance,21810,50890,1320.39,604861,528385,79970,43,7270,43,armed-forces,0,Y
+Total Loss,bungie-jumping,Single Vehicle Collision,Rear Collision,SC,Police,6290,44030,1435.09,471519,228403,56610,253,6290,41,machine-op-inspct,36600,N
+Major Damage,polo,Single Vehicle Collision,Side Collision,VA,Fire,7690,69210,1448.54,618682,209177,84590,152,7690,30,craft-repair,58600,Y
+Major Damage,sleeping,Multi-vehicle Collision,Side Collision,SC,Fire,14840,44520,1733.56,441425,497929,66780,160,7420,38,sales,0,N
+Major Damage,exercise,Single Vehicle Collision,Rear Collision,NC,Police,6500,52000,1533.07,609336,735844,58500,56,0,36,farming-fishing,0,N
+Trivial Damage,golf,Parked Car,?,WV,Police,500,4000,1106.77,603320,710741,5000,286,500,41,prof-specialty,45500,N
+Trivial Damage,chess,Parked Car,?,PA,Police,1000,3500,995.7,615446,276804,5000,3,500,29,priv-house-serv,0,Y
+Major Damage,camping,Multi-vehicle Collision,Front Collision,NY,Ambulance,12100,36300,1298.85,435967,507545,54450,286,6050,41,sales,71300,N
+Major Damage,bungie-jumping,Multi-vehicle Collision,Front Collision,WV,Police,6880,48160,1276.73,610246,485642,61920,239,6880,38,handlers-cleaners,0,N
+Minor Damage,cross-fit,Single Vehicle Collision,Side Collision,VA,Ambulance,4370,34960,1202.28,479327,796375,43700,64,4370,29,exec-managerial,0,Y
+Minor Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NC,Other,7120,49840,671.92,468300,171183,64080,98,7120,31,machine-op-inspct,0,N
+Total Loss,chess,Single Vehicle Collision,Rear Collision,SC,Other,10000,35000,1358.03,612660,110084,55000,16,10000,35,sales,59300,Y
+Trivial Damage,video-games,Vehicle Theft,?,WV,Police,550,3850,1008.79,466691,714784,4400,70,0,27,adm-clerical,46000,N
+Minor Damage,movies,Multi-vehicle Collision,Side Collision,SC,Police,11940,53730,1141.1,468515,143924,71640,75,5970,27,armed-forces,0,N
+Minor Damage,reading,Single Vehicle Collision,Rear Collision,NY,Other,6860,48020,1397.0,614521,996850,61740,246,6860,44,machine-op-inspct,0,N
+Total Loss,golf,Single Vehicle Collision,Side Collision,SC,Ambulance,5750,46000,1664.66,465921,284834,57500,110,5750,27,priv-house-serv,0,N
+Minor Damage,reading,Parked Car,?,NY,Police,1740,6090,1151.39,604555,830878,8700,236,870,39,exec-managerial,0,N
+Total Loss,polo,Multi-vehicle Collision,Front Collision,VA,Police,7710,53970,1546.01,616276,270208,77100,267,15420,46,adm-clerical,0,N
+Minor Damage,dancing,Single Vehicle Collision,Front Collision,NY,Police,6600,46200,1063.67,463356,407958,59400,463,6600,57,priv-house-serv,0,N
+Minor Damage,kayaking,Multi-vehicle Collision,Rear Collision,NY,Fire,4990,39920,709.14,450184,832300,54890,303,9980,46,machine-op-inspct,0,N
+Minor Damage,kayaking,Multi-vehicle Collision,Front Collision,WV,Other,13460,53840,1039.55,466393,927205,74030,137,6730,30,exec-managerial,55600,N
+Total Loss,chess,Single Vehicle Collision,Rear Collision,NY,Other,11180,39130,1339.39,471786,655356,61490,56,11180,42,adm-clerical,0,N
+Minor Damage,board-games,Multi-vehicle Collision,Front Collision,SC,Police,13260,59670,1202.75,602289,831053,79560,75,6630,27,handlers-cleaners,57900,N
+Minor Damage,yachting,Parked Car,?,NY,Police,490,3920,1081.17,445120,432740,4900,131,490,33,sales,0,N
+Total Loss,paintball,Multi-vehicle Collision,Side Collision,WV,Other,14140,49490,991.39,449260,893853,77770,153,14140,34,tech-support,45600,N
+Major Damage,board-games,Multi-vehicle Collision,Side Collision,SC,Fire,14940,52290,984.02,472724,594988,74700,255,7470,43,transport-moving,75800,Y
+Minor Damage,sleeping,Multi-vehicle Collision,Front Collision,NY,Police,4060,32480,1354.83,475173,979544,40600,103,4060,26,tech-support,66300,N
+Total Loss,video-games,Single Vehicle Collision,Rear Collision,SC,Ambulance,10060,25150,830.31,443854,191891,45270,97,10060,28,farming-fishing,0,N
+Minor Damage,kayaking,Multi-vehicle Collision,Front Collision,NY,Ambulance,8560,34240,987.42,461418,831479,47080,214,4280,36,machine-op-inspct,0,N
+Minor Damage,chess,Single Vehicle Collision,Side Collision,SC,Police,4070,32560,1119.29,616164,714346,40700,438,4070,57,machine-op-inspct,0,Y
+Minor Damage,polo,Single Vehicle Collision,Side Collision,NY,Police,3150,25200,1048.39,620962,326289,34650,87,6300,27,transport-moving,0,N
+Trivial Damage,camping,Parked Car,?,WV,Police,400,2400,1074.47,465201,944537,3200,27,400,28,protective-serv,0,N
+Major Damage,yachting,Single Vehicle Collision,Rear Collision,VA,Fire,14360,57440,1230.76,470488,779156,78980,206,7180,42,machine-op-inspct,0,Y
+Minor Damage,reading,Parked Car,?,SC,,1120,4480,1255.02,462250,856153,6160,127,560,31,sales,58200,N
+Major Damage,hiking,Single Vehicle Collision,Front Collision,NC,Ambulance,7750,62000,1555.52,436408,473338,85250,422,15500,60,machine-op-inspct,43600,N
+Major Damage,camping,Multi-vehicle Collision,Side Collision,SC,Fire,6070,54630,836.11,464230,521694,72840,303,12140,50,sales,0,N
+Trivial Damage,base-jumping,Parked Car,?,WV,Police,1100,3850,1450.98,478609,136520,6050,228,1100,40,exec-managerial,43700,N
+Major Damage,hiking,Single Vehicle Collision,Front Collision,SC,Fire,7990,63920,625.08,437156,730819,87890,239,15980,39,protective-serv,44200,Y
+Total Loss,chess,Multi-vehicle Collision,Side Collision,NY,Other,5500,44000,1133.27,432218,912665,60500,330,11000,47,craft-repair,0,Y
+Minor Damage,kayaking,Multi-vehicle Collision,Front Collision,NY,Fire,16040,56140,1366.6,620493,469966,88220,128,16040,35,machine-op-inspct,0,N
+Total Loss,video-games,Multi-vehicle Collision,Rear Collision,SC,Other,4880,39040,1439.9,475391,952300,53680,147,9760,37,prof-specialty,0,N
+Minor Damage,golf,Single Vehicle Collision,Front Collision,VA,Fire,5380,43040,1230.69,440720,322609,53800,287,5380,45,transport-moving,0,N
+Major Damage,dancing,Single Vehicle Collision,Rear Collision,NY,Police,9060,40770,1307.68,606942,890280,54360,142,4530,29,craft-repair,0,Y
+Major Damage,bungie-jumping,Single Vehicle Collision,Side Collision,WV,Police,4940,39520,1124.69,446971,431583,54340,162,9880,35,handlers-cleaners,0,N
+Trivial Damage,chess,Parked Car,?,SC,,260,2080,1520.78,470538,155912,2860,140,520,35,craft-repair,0,Y
+Minor Damage,polo,Vehicle Theft,?,WV,Police,1220,4270,1609.11,601177,110143,5490,106,0,28,craft-repair,0,N
+Trivial Damage,dancing,Vehicle Theft,?,WV,Police,1340,5360,1358.91,451470,808544,7370,292,670,45,craft-repair,0,N
+Major Damage,chess,Multi-vehicle Collision,Side Collision,NC,Ambulance,5080,40640,1295.87,438529,409074,50800,34,5080,34,priv-house-serv,0,Y
+Minor Damage,video-games,Multi-vehicle Collision,Side Collision,VA,Fire,5190,31140,1161.03,469742,824728,41520,290,5190,48,adm-clerical,45300,N
+Total Loss,movies,Single Vehicle Collision,Side Collision,NY,Police,16300,65200,1441.06,435534,606037,89650,182,8150,38,armed-forces,53800,N
+Total Loss,base-jumping,Multi-vehicle Collision,Rear Collision,NY,Police,0,39690,1097.99,442239,636843,39690,362,0,55,other-service,44400,N
+Major Damage,golf,Single Vehicle Collision,Rear Collision,SC,Ambulance,5660,50940,1464.42,468986,111874,62260,143,5660,32,exec-managerial,79900,N
+Major Damage,paintball,Single Vehicle Collision,Side Collision,NC,Police,4720,37760,1543.68,606988,439844,51920,183,9440,38,prof-specialty,20200,Y
+Minor Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Other,4860,38880,1390.89,453719,463513,53460,254,9720,40,armed-forces,0,N
+Total Loss,golf,Multi-vehicle Collision,Rear Collision,SC,Fire,5710,45680,1148.58,475524,577858,57100,249,5710,43,adm-clerical,0,N
+Total Loss,yachting,Multi-vehicle Collision,Front Collision,NY,Ambulance,7040,56320,1616.26,617804,607351,77440,169,14080,36,exec-managerial,50700,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Side Collision,NY,Ambulance,13660,47810,1398.94,613399,682754,68300,235,6830,40,craft-repair,0,N
+Trivial Damage,base-jumping,Parked Car,?,NY,,920,3680,1238.92,453400,757352,5060,112,460,32,other-service,57800,N
+Total Loss,chess,Multi-vehicle Collision,Side Collision,WV,Ambulance,13200,39600,968.46,615767,307469,59400,16,6600,32,tech-support,50800,Y
+Major Damage,cross-fit,Multi-vehicle Collision,Side Collision,NY,Ambulance,15540,54390,1045.12,615311,526296,69930,128,0,31,transport-moving,0,Y
+Minor Damage,board-games,Multi-vehicle Collision,Front Collision,NY,Police,15540,54390,1537.33,468470,658816,77700,103,7770,27,handlers-cleaners,0,N
+Major Damage,yachting,Multi-vehicle Collision,Front Collision,SC,Other,12500,43750,912.3,461383,913337,68750,356,12500,54,prof-specialty,58500,Y
+Minor Damage,movies,Multi-vehicle Collision,Side Collision,NY,Police,16560,57960,1007.28,457727,488464,91080,109,16560,29,adm-clerical,0,N
+Minor Damage,golf,Single Vehicle Collision,Side Collision,WV,Other,8060,36270,1189.98,613327,480094,48360,2,4030,20,craft-repair,0,N
+Major Damage,kayaking,Single Vehicle Collision,Side Collision,WV,Other,9500,76000,1576.41,614941,263108,95000,198,9500,34,handlers-cleaners,0,N
+Trivial Damage,yachting,Vehicle Theft,?,SC,Police,390,2730,1172.82,440680,298412,3900,107,780,32,machine-op-inspct,82100,N
+Minor Damage,cross-fit,Multi-vehicle Collision,Front Collision,NC,Other,5940,41580,1312.22,609949,261905,59400,252,11880,39,transport-moving,0,Y
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,NC,Fire,6690,46830,671.01,479655,674485,60210,303,6690,43,machine-op-inspct,42900,N
+Minor Damage,video-games,Single Vehicle Collision,Front Collision,SC,Ambulance,4360,30520,895.14,439964,223404,43600,101,8720,32,sales,52600,N
+Total Loss,sleeping,Multi-vehicle Collision,Front Collision,SC,Police,12560,43960,1373.21,478486,991480,62800,446,6280,57,adm-clerical,42700,N
+Major Damage,skydiving,Single Vehicle Collision,Side Collision,VA,Ambulance,5950,41650,1625.65,466498,804219,59500,330,11900,48,farming-fishing,0,N
+Total Loss,skydiving,Multi-vehicle Collision,Front Collision,WV,Police,5940,41580,1295.63,430878,483088,53460,211,5940,37,armed-forces,42200,N
+Total Loss,reading,Multi-vehicle Collision,Side Collision,NY,Ambulance,7580,26530,1459.96,600127,100804,41690,172,7580,33,adm-clerical,41300,N
+Minor Damage,paintball,Single Vehicle Collision,Side Collision,NY,Ambulance,12620,44170,1219.94,431968,941807,63100,316,6310,46,prof-specialty,0,N
+Total Loss,chess,Single Vehicle Collision,Front Collision,WV,Ambulance,10480,47160,1064.49,462804,593466,62880,435,5240,60,priv-house-serv,73500,Y
+Major Damage,paintball,Multi-vehicle Collision,Side Collision,NY,Fire,11600,46400,959.83,435809,437442,75400,344,17400,51,sales,0,Y
+Total Loss,hiking,Single Vehicle Collision,Rear Collision,SC,Ambulance,8400,33600,1767.02,453193,942106,46200,204,4200,40,machine-op-inspct,0,N
+Major Damage,sleeping,Single Vehicle Collision,Rear Collision,VA,Ambulance,5850,46800,1285.01,459630,794951,58500,278,5850,47,machine-op-inspct,0,N
+Major Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,SC,Other,11040,44160,1422.95,608982,182450,66240,434,11040,57,transport-moving,0,N
+Total Loss,camping,Multi-vehicle Collision,Rear Collision,PA,Ambulance,8180,49080,1223.39,452218,730973,65440,209,8180,36,craft-repair,0,N
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,SC,Fire,10700,42800,1539.06,434150,687755,64200,250,10700,43,sales,37800,N
+Minor Damage,dancing,Multi-vehicle Collision,Rear Collision,WV,Ambulance,4040,24240,988.06,460579,757644,32320,61,4040,25,other-service,0,N
+Major Damage,golf,Single Vehicle Collision,Rear Collision,SC,Police,3720,26040,1740.57,442142,998865,33480,80,3720,28,farming-fishing,0,N
+Trivial Damage,polo,Vehicle Theft,?,VA,,960,2880,1540.91,608807,944953,4320,25,480,38,adm-clerical,40900,N
+Trivial Damage,exercise,Vehicle Theft,?,SC,Police,420,2940,1381.88,433153,386429,4200,4,840,29,tech-support,0,N
+Minor Damage,sleeping,Multi-vehicle Collision,Front Collision,NY,Ambulance,5270,42160,1446.98,436560,108270,57970,32,10540,29,adm-clerical,0,N
+Trivial Damage,paintball,Parked Car,?,NY,,960,3360,1220.86,436784,205134,4320,125,0,31,other-service,55400,N
+Minor Damage,reading,Multi-vehicle Collision,Front Collision,SC,Fire,6930,48510,948.1,430621,749325,69300,276,13860,45,machine-op-inspct,44500,N
+Minor Damage,camping,Multi-vehicle Collision,Side Collision,NC,Police,4060,24360,1471.24,601574,774303,32480,148,4060,30,farming-fishing,57500,N
+Total Loss,hiking,Single Vehicle Collision,Front Collision,NY,Police,6720,47040,1157.97,433853,698470,60480,222,6720,38,machine-op-inspct,0,N
+Trivial Damage,polo,Parked Car,?,NC,Police,440,1760,566.11,453164,719989,2640,32,440,38,armed-forces,0,N
+Trivial Damage,skydiving,Parked Car,?,SC,Police,1100,4400,1060.88,613931,309323,6050,78,550,27,other-service,0,N
+Total Loss,chess,Multi-vehicle Collision,Rear Collision,NC,Ambulance,4270,34160,1524.45,607458,444035,42700,238,4270,43,handlers-cleaners,0,Y
+Major Damage,reading,Single Vehicle Collision,Front Collision,SC,Ambulance,7320,29280,1556.17,463835,431478,40260,313,3660,47,prof-specialty,63900,Y
+Major Damage,polo,Single Vehicle Collision,Rear Collision,NY,Fire,10000,35000,1216.24,613945,797634,50000,334,5000,50,priv-house-serv,26700,N
+Trivial Damage,golf,Parked Car,?,NY,,320,2880,1484.72,432699,284836,3840,190,640,35,tech-support,0,N
+Minor Damage,video-games,Multi-vehicle Collision,Rear Collision,WV,Police,20550,61650,1203.81,613119,238196,95900,194,13700,41,transport-moving,52500,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Ambulance,12480,37440,1393.34,472922,885789,56160,290,6240,47,exec-managerial,0,N
+Major Damage,sleeping,Single Vehicle Collision,Side Collision,SC,Police,11460,45840,1484.48,613849,287436,63030,26,5730,42,armed-forces,50700,N
+Minor Damage,skydiving,Single Vehicle Collision,Front Collision,NY,Police,11540,46160,1581.27,603827,496067,63470,254,5770,41,handlers-cleaners,42200,N
+Major Damage,movies,Single Vehicle Collision,Front Collision,WV,Police,4040,32320,1281.25,467780,206004,44440,199,8080,38,tech-support,0,Y
+Minor Damage,paintball,Parked Car,?,WV,Police,1200,4200,1667.83,460586,153027,6600,137,1200,35,prof-specialty,48500,N
+Minor Damage,kayaking,Multi-vehicle Collision,Side Collision,WV,Ambulance,9650,57900,1497.41,613842,469426,77200,134,9650,36,machine-op-inspct,14100,N
+Total Loss,reading,Multi-vehicle Collision,Rear Collision,WV,Other,11400,45600,803.36,435371,654974,57000,73,0,30,protective-serv,0,N
+Trivial Damage,movies,Vehicle Theft,?,WV,Police,300,2100,1221.41,466289,943425,2700,289,300,45,farming-fishing,46700,N
+Total Loss,kayaking,Single Vehicle Collision,Rear Collision,WV,Police,8600,34400,1865.83,436173,641845,47300,176,4300,36,transport-moving,32800,N
+Major Damage,sleeping,Single Vehicle Collision,Rear Collision,VA,Other,10020,40080,1434.27,457234,794534,55110,145,5010,37,tech-support,0,N
+Trivial Damage,reading,Vehicle Theft,?,SC,Police,480,3360,1114.68,474758,357808,4320,164,480,31,other-service,44500,N
+Total Loss,video-games,Multi-vehicle Collision,Front Collision,VA,Police,5730,51570,1218.56,477373,536052,68760,186,11460,38,transport-moving,39300,Y
+Major Damage,paintball,Multi-vehicle Collision,Front Collision,WV,Other,7440,52080,1234.69,613471,873384,74400,85,14880,31,tech-support,0,Y
+Major Damage,base-jumping,Multi-vehicle Collision,Rear Collision,NY,Fire,3530,28240,964.92,601581,790225,35300,162,3530,33,exec-managerial,45700,Y
+Minor Damage,camping,Parked Car,?,NY,,480,1680,1351.72,612102,587498,2640,396,480,57,tech-support,0,N
+Total Loss,cross-fit,Multi-vehicle Collision,Rear Collision,SC,Ambulance,9260,46300,817.28,460263,639027,60190,270,4630,41,sales,62200,Y
+Major Damage,exercise,Multi-vehicle Collision,Rear Collision,NY,Fire,7560,30240,1389.59,479134,217899,41580,168,3780,39,machine-op-inspct,0,Y
+Minor Damage,cross-fit,Single Vehicle Collision,Side Collision,NY,Ambulance,0,46800,1353.53,451467,589094,58500,274,11700,45,tech-support,54700,Y
+Minor Damage,movies,Single Vehicle Collision,Rear Collision,SC,Fire,6610,59490,1294.04,602670,458829,79320,263,13220,43,handlers-cleaners,0,N
+Minor Damage,chess,Single Vehicle Collision,Rear Collision,NY,Ambulance,7510,67590,840.81,613607,626208,82610,152,7510,33,farming-fishing,0,Y
+Total Loss,video-games,Multi-vehicle Collision,Rear Collision,SC,Ambulance,19650,45850,998.19,611556,315041,78600,46,13100,41,priv-house-serv,43700,Y
+Minor Damage,chess,Single Vehicle Collision,Front Collision,SC,Ambulance,5710,39970,1090.32,435518,283267,51390,276,5710,46,handlers-cleaners,0,Y
+Major Damage,exercise,Single Vehicle Collision,Side Collision,NC,Ambulance,7020,56160,1780.67,465942,442494,70200,234,7020,44,other-service,0,Y
+Minor Damage,base-jumping,Parked Car,?,SC,,1470,2940,1681.01,446174,159243,4900,64,490,30,protective-serv,0,N
+Major Damage,chess,Multi-vehicle Collision,Side Collision,PA,Other,11080,49860,1395.77,611651,669800,66480,456,5540,62,protective-serv,82600,Y
+Major Damage,reading,Single Vehicle Collision,Rear Collision,NC,Fire,9160,36640,1471.44,446657,520179,50380,58,4580,23,transport-moving,57500,Y
+Major Damage,paintball,Single Vehicle Collision,Front Collision,SC,Fire,9900,44550,1265.72,612506,607974,64350,475,9900,61,handlers-cleaners,0,N
+Major Damage,hiking,Multi-vehicle Collision,Rear Collision,NC,Ambulance,11080,38780,1274.7,618493,465065,55400,96,5540,29,prof-specialty,47500,Y
+Total Loss,basketball,Single Vehicle Collision,Front Collision,NY,Other,9980,34930,1330.39,612664,369941,49900,99,4990,28,prof-specialty,0,N
+Minor Damage,golf,Multi-vehicle Collision,Side Collision,WV,Ambulance,12480,49920,1122.95,473653,447226,74880,38,12480,28,priv-house-serv,78000,N
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,NY,Other,16280,73260,1655.79,454529,831668,105820,259,16280,44,exec-managerial,0,N
+Trivial Damage,golf,Vehicle Theft,?,PA,Police,650,5200,935.77,437422,922937,7150,241,1300,43,prof-specialty,0,N
+Total Loss,dancing,Single Vehicle Collision,Front Collision,SC,Ambulance,11160,33480,1192.04,619470,640474,55800,437,11160,58,craft-repair,66100,N
+Trivial Damage,kayaking,Parked Car,?,NY,,1060,3710,990.11,442666,153298,5830,130,1060,34,sales,0,N
+Major Damage,polo,Single Vehicle Collision,Side Collision,WV,Ambulance,17180,51540,1422.21,620507,334749,85900,269,17180,41,handlers-cleaners,0,Y
+Minor Damage,base-jumping,Parked Car,?,OH,Police,1580,4740,914.85,614867,221283,7110,103,790,29,prof-specialty,72100,N
+Total Loss,kayaking,Multi-vehicle Collision,Side Collision,WV,Fire,3360,26880,1123.84,609898,961496,36960,284,6720,43,prof-specialty,48200,N
+Minor Damage,movies,Multi-vehicle Collision,Rear Collision,VA,Police,6440,51520,838.02,450702,804751,64400,189,6440,39,tech-support,0,N
+Minor Damage,sleeping,Parked Car,?,NC,,0,1440,1300.68,600418,369226,1920,267,480,43,adm-clerical,49000,N
+Major Damage,polo,Single Vehicle Collision,Rear Collision,SC,Police,7830,62640,1173.21,431202,691115,86130,39,15660,22,farming-fishing,0,Y
+Major Damage,cross-fit,Single Vehicle Collision,Side Collision,VA,Fire,7470,59760,985.97,457793,713172,82170,140,14940,32,protective-serv,0,Y
+Major Damage,camping,Single Vehicle Collision,Front Collision,WV,Fire,5030,35210,1129.23,470190,621756,50300,243,10060,41,farming-fishing,17300,Y
+Major Damage,camping,Single Vehicle Collision,Side Collision,SC,Police,8840,30940,1194.83,603733,615116,44200,116,4420,31,prof-specialty,28600,N
+Major Damage,polo,Single Vehicle Collision,Side Collision,VA,Ambulance,6060,54540,1114.29,465136,947598,66660,219,6060,43,transport-moving,51300,N
+Total Loss,bungie-jumping,Single Vehicle Collision,Front Collision,SC,Ambulance,14240,56960,1509.04,611723,658002,78320,96,7120,26,prof-specialty,10000,N
+Total Loss,skydiving,Single Vehicle Collision,Rear Collision,WV,Fire,16160,72720,664.86,608963,374545,105040,149,16160,34,craft-repair,0,N
+Minor Damage,basketball,Single Vehicle Collision,Side Collision,NY,Fire,5070,40560,1267.4,454139,805806,50700,246,5070,43,adm-clerical,0,N
+Total Loss,exercise,Multi-vehicle Collision,Front Collision,WV,Fire,5690,34140,1119.23,447560,235097,51210,293,11380,45,exec-managerial,51500,N
+Total Loss,dancing,Multi-vehicle Collision,Rear Collision,SC,Fire,8640,34560,1698.51,444378,290971,51840,339,8640,48,other-service,0,N
+Total Loss,exercise,Multi-vehicle Collision,Front Collision,NC,Ambulance,5280,42240,1422.78,616583,180286,52800,160,5280,33,exec-managerial,61600,N
+Minor Damage,kayaking,Single Vehicle Collision,Front Collision,WV,Fire,13800,32200,1212.75,455913,662088,55200,224,9200,42,prof-specialty,0,N
+Minor Damage,camping,Vehicle Theft,?,WV,,1400,6300,1423.34,454399,884365,9100,194,1400,34,sales,55300,N
+Minor Damage,reading,Multi-vehicle Collision,Rear Collision,WV,Other,6760,47320,976.37,602842,178081,67600,385,13520,51,craft-repair,0,N
+Minor Damage,golf,Single Vehicle Collision,Rear Collision,NC,Other,6800,27200,1124.59,459428,507452,40800,100,6800,33,adm-clerical,67300,N
+Major Damage,board-games,Multi-vehicle Collision,Side Collision,WV,Other,13000,58500,1569.33,613114,990624,84500,371,13000,50,machine-op-inspct,79600,Y
+Major Damage,hiking,Multi-vehicle Collision,Front Collision,SC,Other,6510,52080,1359.36,450709,892148,71610,175,13020,39,exec-managerial,0,Y
+Major Damage,yachting,Multi-vehicle Collision,Rear Collision,SC,Other,12120,42420,1607.36,444626,398683,60600,373,6060,55,sales,0,Y
+Major Damage,reading,Multi-vehicle Collision,Rear Collision,NC,Fire,20310,54160,1042.25,601206,605100,81240,258,6770,41,exec-managerial,0,Y
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Fire,5860,20510,1453.95,470389,143109,29300,255,2930,39,armed-forces,38200,N
+Total Loss,skydiving,Multi-vehicle Collision,Side Collision,WV,Fire,13900,55600,1969.63,615218,230223,76450,37,6950,31,sales,0,N
+Major Damage,cross-fit,Multi-vehicle Collision,Side Collision,NY,Fire,4940,34580,1156.19,606249,769602,49400,322,9880,44,machine-op-inspct,49900,N
+Total Loss,kayaking,Single Vehicle Collision,Side Collision,SC,Ambulance,16460,57610,1124.47,616161,420815,90530,204,16460,38,tech-support,0,N
+Minor Damage,movies,Vehicle Theft,?,WV,Police,730,5840,1493.5,442335,973546,8030,76,1460,31,priv-house-serv,39900,N
+Minor Damage,movies,Single Vehicle Collision,Side Collision,NY,Fire,6390,51120,1155.38,604952,608039,63900,193,6390,40,handlers-cleaners,34200,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,NC,Fire,4830,28980,878.19,441533,250162,38640,405,4830,55,machine-op-inspct,57100,N
+Total Loss,movies,Multi-vehicle Collision,Rear Collision,NY,Other,4610,27660,1145.85,471784,786432,41490,435,9220,58,sales,0,N
+Minor Damage,hiking,Multi-vehicle Collision,Side Collision,VA,Fire,7190,57520,1261.28,453265,445195,79090,54,14380,35,protective-serv,68500,N
+Major Damage,cross-fit,Multi-vehicle Collision,Side Collision,WV,Police,8790,61530,1427.46,444922,938634,87900,144,17580,35,machine-op-inspct,0,N
+Total Loss,yachting,Single Vehicle Collision,Rear Collision,WV,Ambulance,5340,42720,1592.41,474324,482495,53400,92,5340,32,prof-specialty,58900,N
+Total Loss,basketball,Single Vehicle Collision,Rear Collision,SC,Fire,9460,33110,1274.63,441298,796005,52030,173,9460,36,machine-op-inspct,51000,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Front Collision,VA,Ambulance,7460,59680,1362.31,446606,910604,82060,436,14920,60,prof-specialty,67600,N
+Minor Damage,hiking,Single Vehicle Collision,Front Collision,NY,Ambulance,8060,32240,919.37,459537,327488,48360,155,8060,35,protective-serv,83600,N
+Minor Damage,kayaking,Multi-vehicle Collision,Side Collision,NY,Other,11620,34860,1377.23,440757,715202,52290,78,5810,31,armed-forces,72600,N
+Major Damage,paintball,Multi-vehicle Collision,Rear Collision,SC,Police,12400,43400,995.55,604948,648852,68200,440,12400,57,protective-serv,51500,Y
+Major Damage,basketball,Multi-vehicle Collision,Rear Collision,NY,Other,6750,40500,1508.12,433275,516959,60750,264,13500,43,craft-repair,0,Y
+Major Damage,paintball,Multi-vehicle Collision,Front Collision,SC,Fire,11920,41720,484.67,608309,984456,65560,66,11920,30,adm-clerical,21100,Y
+Minor Damage,basketball,Multi-vehicle Collision,Rear Collision,NY,Police,12780,44730,1561.41,462767,801331,70290,366,12780,50,handlers-cleaners,21200,N
+Total Loss,hiking,Single Vehicle Collision,Rear Collision,SC,Ambulance,5000,35000,1457.21,471785,786103,45000,188,5000,37,adm-clerical,46300,N
+Total Loss,sleeping,Multi-vehicle Collision,Rear Collision,VA,Fire,6180,43260,1128.71,601397,684193,61800,224,12360,39,prof-specialty,0,N
+Major Damage,movies,Multi-vehicle Collision,Front Collision,NY,Ambulance,11740,46960,1358.2,477636,247505,64570,253,5870,46,transport-moving,52900,N
+Minor Damage,reading,Single Vehicle Collision,Rear Collision,VA,Other,14100,49350,1232.79,441967,259792,70500,446,7050,61,adm-clerical,49900,N
+Total Loss,movies,Multi-vehicle Collision,Side Collision,SC,Police,5790,34740,936.19,454776,185124,57900,169,17370,37,armed-forces,70600,N
+Minor Damage,video-games,Multi-vehicle Collision,Front Collision,WV,Fire,10520,42080,1302.34,431532,760700,57860,255,5260,46,prof-specialty,0,N
+Minor Damage,polo,Single Vehicle Collision,Side Collision,VA,Fire,4200,25200,1264.99,614169,362407,37800,209,8400,39,transport-moving,67800,N
+Total Loss,hiking,Single Vehicle Collision,Front Collision,NY,Ambulance,6330,50640,1467.76,601425,389525,63300,210,6330,37,tech-support,38700,N
+Total Loss,paintball,Multi-vehicle Collision,Rear Collision,WV,Ambulance,4420,30940,1124.43,477346,179538,44200,174,8840,33,farming-fishing,0,N
+Minor Damage,yachting,Multi-vehicle Collision,Side Collision,WV,Police,3520,24640,1319.81,613587,265437,31680,70,3520,28,machine-op-inspct,67200,N
+Trivial Damage,kayaking,Parked Car,?,WV,Police,20,70,1482.53,620358,266247,100,89,10,32,tech-support,49100,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Front Collision,WV,Fire,6260,43820,1328.18,617699,921851,56340,458,6260,61,protective-serv,53000,N
+Total Loss,skydiving,Multi-vehicle Collision,Rear Collision,NC,Police,6340,57060,1463.95,430567,488724,69740,239,6340,40,sales,0,N
+Total Loss,exercise,Multi-vehicle Collision,Front Collision,WV,Police,15120,40320,1133.85,439870,192524,60480,161,5040,38,priv-house-serv,60200,N
+Minor Damage,skydiving,Multi-vehicle Collision,Rear Collision,NC,Police,13480,60660,1037.32,438837,338070,80880,446,6740,61,tech-support,0,N
+Total Loss,dancing,Single Vehicle Collision,Front Collision,WV,Fire,4490,35920,1562.8,458997,865607,49390,476,8980,61,handlers-cleaners,42800,N
+Minor Damage,video-games,Single Vehicle Collision,Front Collision,NC,Ambulance,11560,46240,1425.79,604147,963285,69360,70,11560,29,armed-forces,62400,N
+Minor Damage,board-games,Vehicle Theft,?,NY,,680,2380,1615.14,606638,728491,3740,233,680,41,tech-support,67100,N
+Trivial Damage,bungie-jumping,Parked Car,?,NY,,920,3680,1236.5,619620,553436,5060,122,460,33,other-service,0,N
+Total Loss,chess,Multi-vehicle Collision,Front Collision,WV,Police,6520,26080,1017.97,441671,440616,35860,335,3260,48,machine-op-inspct,59900,Y
+Major Damage,cross-fit,Multi-vehicle Collision,Front Collision,NY,Ambulance,3850,38500,1306.0,610381,463237,50050,257,7700,40,machine-op-inspct,46100,Y
+Minor Damage,dancing,Multi-vehicle Collision,Rear Collision,NY,Fire,5370,42960,1174.14,602416,753452,59070,85,10740,27,priv-house-serv,50400,N
+Minor Damage,board-games,Multi-vehicle Collision,Front Collision,SC,Fire,3160,22120,1231.01,459562,920554,28440,133,3160,30,adm-clerical,0,N
+Major Damage,hiking,Single Vehicle Collision,Front Collision,OH,Fire,8280,28980,1299.18,463271,594783,45540,119,8280,34,tech-support,57100,Y
+Minor Damage,reading,Single Vehicle Collision,Rear Collision,VA,Fire,3870,27090,1469.75,458132,725330,38700,169,7740,34,sales,0,N
+Trivial Damage,paintball,Parked Car,?,SC,,530,4240,1390.72,448949,607259,5830,225,1060,39,tech-support,83900,N
+Total Loss,cross-fit,Single Vehicle Collision,Rear Collision,NY,Other,9540,42930,1694.09,603732,979336,57240,84,4770,32,prof-specialty,0,Y
+Total Loss,exercise,Multi-vehicle Collision,Rear Collision,VA,Police,8400,33600,1140.15,608929,865201,46200,169,4200,39,armed-forces,0,N
+Total Loss,kayaking,Single Vehicle Collision,Side Collision,NY,Ambulance,5770,46160,1310.71,469875,140977,57700,124,5770,32,farming-fishing,29300,N
+Minor Damage,hiking,Multi-vehicle Collision,Front Collision,WV,Fire,9360,42120,1730.49,443342,787351,56160,320,4680,48,transport-moving,46300,N
+Total Loss,movies,Multi-vehicle Collision,Side Collision,WV,Fire,5550,33300,1616.65,456363,272330,44400,297,5550,47,adm-clerical,0,N
+Major Damage,reading,Single Vehicle Collision,Rear Collision,NY,Ambulance,8430,67440,1935.85,470826,728025,92730,421,16860,56,machine-op-inspct,49500,Y
+Minor Damage,paintball,Single Vehicle Collision,Side Collision,NC,Fire,6140,21490,855.14,458582,804608,30700,136,3070,33,craft-repair,37900,N
+Major Damage,yachting,Single Vehicle Collision,Side Collision,NY,Fire,5660,39620,1568.47,454480,718829,56600,46,11320,24,armed-forces,46800,N
+Trivial Damage,dancing,Parked Car,?,VA,,660,2640,1550.53,435632,482404,3960,34,660,24,armed-forces,0,N
+Minor Damage,video-games,Single Vehicle Collision,Rear Collision,SC,Police,6960,24360,1370.92,442206,331170,34800,95,3480,30,transport-moving,48900,N
+Minor Damage,kayaking,Multi-vehicle Collision,Rear Collision,NY,Other,7950,63600,1363.59,468303,753056,79500,140,7950,36,armed-forces,43200,N
+Total Loss,basketball,Single Vehicle Collision,Front Collision,NY,Police,5600,44800,828.42,467762,910365,56000,200,5600,34,prof-specialty,0,N
+Minor Damage,chess,Single Vehicle Collision,Rear Collision,NC,Ambulance,0,56980,1209.63,447188,379268,73260,123,16280,29,machine-op-inspct,64800,Y
+Trivial Damage,base-jumping,Parked Car,?,WV,,450,3600,1111.17,469438,362843,4950,267,900,46,craft-repair,35000,N
+Minor Damage,kayaking,Single Vehicle Collision,Rear Collision,WV,Ambulance,9600,33600,989.97,462519,135400,48000,290,4800,42,machine-op-inspct,32500,N
+Major Damage,dancing,Single Vehicle Collision,Side Collision,SC,Fire,5220,36540,1114.23,432534,798579,52200,45,10440,37,prof-specialty,0,N
+Minor Damage,dancing,Multi-vehicle Collision,Rear Collision,NY,Ambulance,12300,49200,1347.31,436467,250833,73800,186,12300,38,protective-serv,80900,N
+Total Loss,base-jumping,Single Vehicle Collision,Side Collision,NC,Fire,7820,54740,1687.53,465674,824116,78200,135,15640,34,protective-serv,0,N
+Major Damage,bungie-jumping,Single Vehicle Collision,Rear Collision,VA,Ambulance,9200,32200,1183.48,442389,322613,55200,110,13800,33,other-service,0,Y
+Total Loss,kayaking,Multi-vehicle Collision,Side Collision,NY,Other,6340,44380,1537.13,471614,871305,57060,259,6340,43,handlers-cleaners,0,N
+Minor Damage,dancing,Vehicle Theft,?,WV,,520,3640,1173.25,442936,488037,4680,114,520,30,protective-serv,0,N
+Minor Damage,cross-fit,Single Vehicle Collision,Front Collision,VA,Ambulance,5310,42480,1361.16,437944,485813,53100,404,5310,56,transport-moving,0,Y
+Minor Damage,video-games,Vehicle Theft,?,WV,,320,2560,1422.56,473705,886473,3520,282,640,48,prof-specialty,26900,N
+Total Loss,dancing,Multi-vehicle Collision,Front Collision,VA,Ambulance,14580,43740,1143.06,469363,907113,72900,57,14580,25,tech-support,63100,N
+Total Loss,camping,Single Vehicle Collision,Rear Collision,SC,Police,14140,49490,1405.71,465376,833321,70700,215,7070,38,craft-repair,0,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,SC,Other,10940,43760,1354.2,438775,521592,60170,140,5470,30,adm-clerical,100500,N
+Major Damage,paintball,Single Vehicle Collision,Rear Collision,SC,Other,6800,54400,1055.6,457962,254837,74800,250,13600,42,exec-managerial,69500,Y
+Trivial Damage,paintball,Vehicle Theft,?,WV,Police,410,2870,999.43,477947,634499,4100,286,820,41,prof-specialty,25800,N
+Minor Damage,camping,Single Vehicle Collision,Side Collision,SC,Other,11180,44720,1155.97,431104,574707,61490,356,5590,47,prof-specialty,0,N
+Trivial Damage,basketball,Vehicle Theft,?,VA,,1440,5040,1726.91,456570,476839,7200,65,720,29,other-service,0,N
+Minor Damage,polo,Multi-vehicle Collision,Side Collision,NY,Fire,4100,32800,1232.57,612986,149601,45100,187,8200,34,machine-op-inspct,59500,N
+Minor Damage,camping,Single Vehicle Collision,Front Collision,WV,Police,6060,48480,1078.65,615730,630683,66660,386,12120,53,craft-repair,36800,N
+Major Damage,basketball,Single Vehicle Collision,Front Collision,NC,Police,7640,53480,1324.78,478640,500639,76400,197,15280,41,prof-specialty,0,Y
+Total Loss,kayaking,Single Vehicle Collision,Rear Collision,PA,Ambulance,10600,37100,1518.54,470510,352120,58300,166,10600,37,craft-repair,0,N
+Total Loss,skydiving,Single Vehicle Collision,Front Collision,SC,Police,10420,41680,1239.06,439360,569245,57310,293,5210,49,transport-moving,34900,N
+Minor Damage,movies,Single Vehicle Collision,Front Collision,NY,Fire,5900,41300,1246.68,440251,907012,53100,179,5900,32,priv-house-serv,0,N
+Total Loss,paintball,Multi-vehicle Collision,Side Collision,WV,Ambulance,7470,52290,1622.67,600313,700074,74700,76,14940,24,priv-house-serv,0,N
+Major Damage,golf,Multi-vehicle Collision,Rear Collision,SC,Fire,6050,42350,1082.36,452216,866805,60500,105,12100,28,prof-specialty,0,N
+Total Loss,chess,Multi-vehicle Collision,Side Collision,NC,Other,15440,61760,1270.55,478532,951863,84920,97,7720,26,protective-serv,0,Y
+Total Loss,hiking,Single Vehicle Collision,Side Collision,PA,Police,11100,44400,1236.32,616929,211578,61050,148,5550,36,adm-clerical,55100,N
+Major Damage,movies,Multi-vehicle Collision,Rear Collision,NY,Police,6280,50240,785.82,620207,357394,69080,77,12560,26,exec-managerial,49700,Y
+Minor Damage,paintball,Vehicle Theft,?,VA,,380,3420,1265.84,605743,863749,4560,295,760,46,prof-specialty,52200,N
+Total Loss,skydiving,Multi-vehicle Collision,Rear Collision,WV,Police,11300,45200,1508.9,472814,596914,67800,126,11300,28,machine-op-inspct,0,N
+Minor Damage,reading,Vehicle Theft,?,SC,Police,560,3920,1106.84,464362,684653,5600,132,1120,32,other-service,43100,N
+Minor Damage,basketball,Vehicle Theft,?,NC,,1800,6300,1389.13,456203,528259,9000,370,900,55,other-service,0,N
+Total Loss,kayaking,Single Vehicle Collision,Rear Collision,VA,Police,7110,56880,974.84,468984,797636,85320,257,21330,43,transport-moving,52100,N
+Trivial Damage,golf,Vehicle Theft,?,NC,,1080,4320,1304.46,473349,326180,5940,9,540,24,machine-op-inspct,51700,Y
+Major Damage,movies,Multi-vehicle Collision,Side Collision,SC,Fire,4670,37360,1257.36,474771,620075,51370,185,9340,34,armed-forces,0,Y
+Major Damage,reading,Single Vehicle Collision,Rear Collision,SC,Police,5160,36120,1257.04,448294,965187,51600,234,10320,43,protective-serv,0,N
+Trivial Damage,golf,Parked Car,?,SC,,600,4200,719.52,606606,516182,5400,253,600,44,farming-fishing,45800,N
+Minor Damage,reading,Multi-vehicle Collision,Rear Collision,SC,Fire,5430,38010,1524.18,605220,728839,48870,233,5430,39,craft-repair,0,N
+Minor Damage,reading,Vehicle Theft,?,WV,Police,860,3870,1395.58,466612,771509,5590,274,860,44,tech-support,0,N
+Major Damage,camping,Multi-vehicle Collision,Front Collision,NY,Other,0,48090,1243.68,463331,264221,54960,297,6870,48,protective-serv,0,Y
+Minor Damage,video-games,Multi-vehicle Collision,Side Collision,VA,Police,3980,27860,1189.04,457843,602704,39800,273,7960,47,prof-specialty,59600,N
+Major Damage,chess,Multi-vehicle Collision,Side Collision,SC,Ambulance,6240,43680,1375.29,609226,672416,56160,147,6240,37,armed-forces,0,Y
+Total Loss,golf,Single Vehicle Collision,Side Collision,VA,Fire,10540,36890,1389.13,452942,545506,52700,285,5270,42,priv-house-serv,63100,N
+Minor Damage,base-jumping,Multi-vehicle Collision,Side Collision,NY,Fire,7620,53340,1387.51,609390,777533,68580,289,7620,43,sales,0,N
+Major Damage,board-games,Single Vehicle Collision,Side Collision,NY,Ambulance,19470,58410,1178.61,446608,953334,90860,427,12980,60,craft-repair,0,Y
+Trivial Damage,bungie-jumping,Parked Car,?,NC,Police,570,4560,1166.62,602500,369781,5700,380,570,53,priv-house-serv,0,N
+Total Loss,golf,Multi-vehicle Collision,Side Collision,NY,Police,8630,77670,1556.31,463809,990998,94930,13,8630,21,prof-specialty,0,N
+Major Damage,video-games,Single Vehicle Collision,Side Collision,SC,Ambulance,9360,32760,1452.27,611996,982678,46800,282,4680,43,farming-fishing,75800,Y
+Total Loss,polo,Multi-vehicle Collision,Side Collision,NY,Fire,7040,42240,1212.07,459298,646069,56320,312,7040,47,exec-managerial,66900,N
+Minor Damage,chess,Single Vehicle Collision,Front Collision,WV,Fire,15180,60720,1578.54,468158,331683,83490,266,7590,46,handlers-cleaners,0,N
+Total Loss,golf,Multi-vehicle Collision,Side Collision,WV,Police,5790,46320,1488.26,440831,364055,57900,30,5790,36,machine-op-inspct,0,N
+Total Loss,kayaking,Multi-vehicle Collision,Rear Collision,SC,Fire,5490,38430,1096.39,603848,521854,49410,198,5490,36,armed-forces,0,N
+Minor Damage,reading,Multi-vehicle Collision,Side Collision,WV,Fire,6620,52960,1215.36,617739,737252,66200,290,6620,45,tech-support,54400,N
+Minor Damage,reading,Single Vehicle Collision,Front Collision,NY,Fire,10680,42720,1482.57,607133,344480,64080,260,10680,46,priv-house-serv,35000,N
+Minor Damage,dancing,Multi-vehicle Collision,Side Collision,SC,Other,4250,29750,954.18,437470,898519,42500,233,8500,43,tech-support,0,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,SC,Other,4450,35600,1193.4,461372,957816,48950,130,8900,30,exec-managerial,0,N
+Minor Damage,golf,Multi-vehicle Collision,Rear Collision,NY,Other,10700,37450,1023.11,476130,175960,58850,230,10700,42,adm-clerical,0,N
+Minor Damage,golf,Multi-vehicle Collision,Side Collision,NY,Other,8240,65920,1524.45,452438,489618,82400,212,8240,40,other-service,73200,N
+Minor Damage,bungie-jumping,Single Vehicle Collision,Rear Collision,WV,Ambulance,6780,40680,1653.32,460517,717044,54240,299,6780,44,other-service,0,N
+Minor Damage,video-games,Multi-vehicle Collision,Front Collision,SC,Other,7420,59360,1022.46,444896,101421,74200,91,7420,26,armed-forces,52700,N
+Total Loss,base-jumping,Single Vehicle Collision,Front Collision,WV,Fire,5270,36890,1396.43,448722,793948,47430,398,5270,53,priv-house-serv,21500,N
+Major Damage,polo,Single Vehicle Collision,Rear Collision,SC,Fire,6820,47740,1521.55,477856,737483,68200,218,13640,43,priv-house-serv,61100,Y
+Minor Damage,exercise,Single Vehicle Collision,Front Collision,NY,Fire,7100,49700,1034.27,617721,695117,63900,152,7100,33,armed-forces,0,N
+Total Loss,skydiving,Multi-vehicle Collision,Rear Collision,NY,Ambulance,5930,41510,1255.35,454176,167466,59300,212,11860,39,protective-serv,60300,N
+Minor Damage,chess,Multi-vehicle Collision,Front Collision,SC,Other,13380,46830,1396.89,618127,664732,66900,242,6690,44,priv-house-serv,0,Y
+Major Damage,skydiving,Multi-vehicle Collision,Rear Collision,OH,Police,7420,29680,795.31,441923,143038,40810,80,3710,27,farming-fishing,0,Y
+Total Loss,skydiving,Single Vehicle Collision,Front Collision,NY,Fire,7540,52780,982.22,604279,979963,75400,260,15080,43,exec-managerial,54500,N
+Minor Damage,bungie-jumping,Parked Car,?,WV,,840,2940,1074.07,440833,467841,4200,133,420,34,prof-specialty,70900,N
+Major Damage,chess,Multi-vehicle Collision,Side Collision,NY,Ambulance,5850,40950,1311.3,451550,219028,52650,290,5850,45,machine-op-inspct,38500,Y
+Major Damage,kayaking,Single Vehicle Collision,Rear Collision,WV,Ambulance,7680,26880,1277.12,431853,130156,42240,322,7680,49,armed-forces,0,N
+Minor Damage,reading,Single Vehicle Collision,Side Collision,NC,Other,6610,46270,1388.62,614274,762951,59490,228,6610,39,sales,35200,N
+Major Damage,base-jumping,Single Vehicle Collision,Side Collision,SC,Ambulance,4420,35360,1406.52,619148,376879,44200,195,4420,37,tech-support,0,Y
+Trivial Damage,reading,Vehicle Theft,?,WV,Police,1540,5390,1558.29,456781,599031,7700,247,770,39,protective-serv,0,N
+Total Loss,exercise,Multi-vehicle Collision,Front Collision,NY,Other,10240,40960,1132.47,434293,676255,61440,405,10240,57,priv-house-serv,46300,N
+Major Damage,sleeping,Multi-vehicle Collision,Rear Collision,SC,Fire,10880,38080,1896.91,460895,985446,54400,144,5440,37,handlers-cleaners,73700,Y
+Total Loss,polo,Single Vehicle Collision,Front Collision,NC,Other,9760,39040,1143.46,601600,884180,58560,338,9760,47,priv-house-serv,0,N
+Major Damage,video-games,Single Vehicle Collision,Front Collision,VA,Fire,6730,53840,1285.42,465440,571462,67300,121,6730,34,priv-house-serv,0,Y
+Major Damage,skydiving,Single Vehicle Collision,Rear Collision,VA,Fire,6680,26720,1305.26,455482,815883,36740,398,3340,55,farming-fishing,66200,Y
+Total Loss,dancing,Single Vehicle Collision,Rear Collision,NY,Police,15580,54530,1073.83,438877,258265,85690,9,15580,30,machine-op-inspct,0,N
+Major Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Ambulance,4270,29890,1051.67,479824,569714,34160,115,0,31,exec-managerial,0,Y
+Minor Damage,paintball,Single Vehicle Collision,Front Collision,WV,Fire,10220,40880,1387.35,477415,180008,61320,280,10220,48,transport-moving,0,N
+Total Loss,paintball,Multi-vehicle Collision,Rear Collision,NC,Police,13280,53120,1083.64,614372,633375,79680,254,13280,45,other-service,59800,N
+Total Loss,exercise,Single Vehicle Collision,Front Collision,SC,Fire,6860,48020,1851.78,465248,556538,61740,141,6860,30,craft-repair,78800,N
+Minor Damage,exercise,Parked Car,?,VA,,640,5120,1270.29,449421,669501,6400,441,640,55,armed-forces,24000,N
+Major Damage,chess,Single Vehicle Collision,Rear Collision,SC,Fire,6060,42420,1459.99,445856,963761,60600,381,12120,55,other-service,35900,N
+Major Damage,sleeping,Multi-vehicle Collision,Side Collision,VA,Ambulance,5120,40960,1253.44,608525,753005,56320,191,10240,38,craft-repair,0,N
+Total Loss,sleeping,Single Vehicle Collision,Side Collision,NC,Ambulance,4750,38000,1142.48,608813,454758,52250,145,9500,34,priv-house-serv,0,N
+Total Loss,camping,Multi-vehicle Collision,Rear Collision,SC,Other,10780,37730,1188.45,459295,698589,53900,479,5390,60,exec-managerial,0,N
+Trivial Damage,yachting,Vehicle Theft,?,WV,,440,1980,1125.4,606144,330119,2640,215,220,35,adm-clerical,40000,N
+Minor Damage,sleeping,Vehicle Theft,?,NC,,1380,6210,1294.41,476315,164464,8970,41,1380,33,transport-moving,0,N
+Minor Damage,movies,Parked Car,?,NY,,1000,4000,1459.5,475891,927354,6000,45,1000,31,priv-house-serv,0,N
+Major Damage,board-games,Multi-vehicle Collision,Front Collision,WV,Fire,5520,38640,1367.99,462525,231508,55200,156,11040,38,armed-forces,26500,Y
+Trivial Damage,board-games,Parked Car,?,SC,,1320,5280,1594.37,606283,272910,7260,246,660,45,exec-managerial,0,N
+Minor Damage,sleeping,Multi-vehicle Collision,Front Collision,NY,Police,11760,41160,1035.99,465252,305758,64680,178,11760,39,exec-managerial,0,N
+Major Damage,basketball,Single Vehicle Collision,Rear Collision,WV,Police,11840,47360,911.53,449979,950542,59200,237,0,43,sales,53200,N
+Minor Damage,paintball,Vehicle Theft,?,NC,,940,3290,1319.97,604681,291544,4700,127,470,34,craft-repair,73700,N
+Total Loss,video-games,Single Vehicle Collision,Side Collision,NY,Other,6940,55520,1391.63,466390,388616,69400,1,6940,33,sales,61200,N
+Total Loss,sleeping,Single Vehicle Collision,Side Collision,NY,Police,4050,32400,915.41,612316,577992,40500,5,4050,21,exec-managerial,0,N
+Minor Damage,skydiving,Multi-vehicle Collision,Side Collision,SC,Fire,10000,45000,1468.82,474731,342830,60000,64,5000,28,handlers-cleaners,56800,N
+Minor Damage,basketball,Single Vehicle Collision,Side Collision,WV,Other,11220,44880,1412.76,603260,491170,67320,142,11220,30,armed-forces,66400,N
+Total Loss,movies,Multi-vehicle Collision,Side Collision,VA,Other,8410,58870,1588.26,434370,175553,75690,97,8410,27,tech-support,56700,N
+Major Damage,paintball,Multi-vehicle Collision,Side Collision,VA,Fire,6430,51440,1140.91,478388,439341,64300,121,6430,31,adm-clerical,51300,Y
+Major Damage,camping,Multi-vehicle Collision,Rear Collision,SC,Police,6440,51520,1517.54,617883,221186,64400,225,6440,43,priv-house-serv,0,N
+Minor Damage,paintball,Multi-vehicle Collision,Front Collision,WV,Fire,16180,64720,912.29,464808,868031,97080,425,16180,53,priv-house-serv,42900,N
+Minor Damage,base-jumping,Vehicle Theft,?,WV,Police,500,4500,1144.3,609458,844117,5500,285,500,44,priv-house-serv,52600,N
+Total Loss,skydiving,Multi-vehicle Collision,Rear Collision,SC,Other,6140,21490,1281.43,432405,744557,30700,192,3070,38,transport-moving,65100,N
+Minor Damage,dancing,Single Vehicle Collision,Side Collision,PA,Police,3720,26040,1101.85,457875,159536,33480,285,3720,48,sales,46100,N
+Total Loss,kayaking,Multi-vehicle Collision,Front Collision,WV,Police,7270,43620,1082.1,477268,727109,65430,98,14540,26,exec-managerial,0,N
+Major Damage,kayaking,Multi-vehicle Collision,Rear Collision,NC,Police,7760,31040,1185.44,437580,155604,42680,175,3880,36,exec-managerial,44900,Y
+Minor Damage,movies,Single Vehicle Collision,Side Collision,WV,Fire,7980,71820,1175.07,457121,608443,87780,259,7980,45,craft-repair,30100,N
+Major Damage,cross-fit,Multi-vehicle Collision,Front Collision,NY,Fire,14560,43680,979.26,436364,117862,72800,140,14560,36,transport-moving,0,N
+Major Damage,chess,Single Vehicle Collision,Rear Collision,SC,Fire,7910,63280,920.81,467654,991553,71190,231,0,37,sales,0,Y
+Trivial Damage,golf,Vehicle Theft,?,NY,,400,2800,922.85,471148,727443,3600,186,400,38,adm-clerical,70300,N
+Major Damage,chess,Single Vehicle Collision,Side Collision,NY,Other,10440,41760,1107.59,468202,378587,62640,229,10440,41,tech-support,65400,N
+Minor Damage,exercise,Multi-vehicle Collision,Front Collision,NY,Ambulance,6330,50640,1272.46,456959,420948,69630,180,12660,36,prof-specialty,0,N
+Minor Damage,chess,Multi-vehicle Collision,Rear Collision,NY,Police,6910,55280,1340.24,447274,457188,76010,188,13820,33,protective-serv,0,Y
+Total Loss,base-jumping,Single Vehicle Collision,Rear Collision,WV,Other,4020,32160,1648.0,608405,118236,44220,214,8040,40,transport-moving,57700,N
+Minor Damage,camping,Multi-vehicle Collision,Rear Collision,NY,Other,10400,41600,1381.14,472253,987524,57200,178,5200,38,other-service,0,N
+Minor Damage,polo,Vehicle Theft,?,WV,Police,560,1960,1198.44,438923,490596,3080,55,560,35,priv-house-serv,0,N
+Total Loss,hiking,Single Vehicle Collision,Rear Collision,SC,Other,6890,55120,951.27,607131,524215,75790,90,13780,31,other-service,42100,N
+Minor Damage,skydiving,Multi-vehicle Collision,Rear Collision,WV,Ambulance,2970,23760,1341.24,601701,913464,32670,135,5940,30,farming-fishing,37100,N
+Minor Damage,video-games,Vehicle Theft,?,VA,Police,860,2580,1177.57,469220,398484,3870,277,430,46,adm-clerical,0,N
+Total Loss,video-games,Single Vehicle Collision,Front Collision,NY,Fire,16640,66560,1055.09,433250,752504,91520,211,8320,38,transport-moving,0,Y
+Major Damage,bungie-jumping,Single Vehicle Collision,Front Collision,NY,Other,13580,54320,1479.48,444413,449263,74690,156,6790,32,prof-specialty,0,Y
+Trivial Damage,polo,Vehicle Theft,?,VA,Police,840,3360,1827.38,433593,844007,4620,84,420,30,priv-house-serv,0,N
+Major Damage,yachting,Single Vehicle Collision,Side Collision,SC,Police,10000,35000,1169.62,458143,686522,55000,136,10000,32,sales,0,Y
+Major Damage,sleeping,Multi-vehicle Collision,Rear Collision,SC,Police,6600,39600,1516.34,474167,670142,59400,310,13200,48,adm-clerical,11000,Y
+Total Loss,sleeping,Multi-vehicle Collision,Side Collision,PA,Fire,0,49120,1270.21,476413,607687,55260,123,6140,34,sales,16100,N
+Minor Damage,polo,Multi-vehicle Collision,Side Collision,NC,Other,10280,35980,809.11,600208,967713,51400,243,5140,44,craft-repair,33200,N
+Minor Damage,reading,Multi-vehicle Collision,Side Collision,NY,Ambulance,10840,32520,1115.81,618926,291902,48780,36,5420,37,machine-op-inspct,0,N
+Major Damage,camping,Multi-vehicle Collision,Rear Collision,VA,Ambulance,5820,40740,1457.65,606219,149839,52380,146,5820,31,armed-forces,0,N
+Total Loss,cross-fit,Multi-vehicle Collision,Side Collision,WV,Other,13520,47320,1041.36,448436,840225,74360,154,13520,34,priv-house-serv,53100,Y
+Minor Damage,polo,Single Vehicle Collision,Front Collision,NY,Police,5340,42720,1693.83,447976,643226,53400,204,5340,40,protective-serv,44000,N
+Total Loss,hiking,Single Vehicle Collision,Front Collision,VA,Police,14360,43080,1685.69,472236,535879,71800,458,14360,59,protective-serv,31400,N
+Major Damage,exercise,Single Vehicle Collision,Front Collision,NY,Other,0,59710,1054.92,468232,746630,68240,147,8530,31,prof-specialty,51900,Y
+Major Damage,bungie-jumping,Multi-vehicle Collision,Rear Collision,SC,Other,11100,38850,1333.97,620819,598308,61050,279,11100,45,other-service,61100,Y
+Minor Damage,movies,Parked Car,?,NY,,860,3870,1013.61,452349,720356,5590,308,860,47,craft-repair,45700,N
+Major Damage,exercise,Multi-vehicle Collision,Side Collision,NY,Fire,8520,29820,958.3,464646,724752,46860,284,8520,48,machine-op-inspct,47900,N
+Minor Damage,base-jumping,Parked Car,?,SC,,780,2730,1112.04,472209,148498,4290,108,780,31,other-service,52800,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Front Collision,NC,Police,7850,54950,1206.26,459955,110122,78500,421,15700,57,armed-forces,69900,N
+Total Loss,movies,Single Vehicle Collision,Side Collision,SC,Police,7870,55090,763.67,473389,281388,70830,266,7870,42,prof-specialty,12800,N
+Total Loss,yachting,Multi-vehicle Collision,Front Collision,SC,Police,7560,45360,1042.56,616767,728600,68040,412,15120,56,handlers-cleaners,0,N
+Major Damage,hiking,Single Vehicle Collision,Side Collision,WV,Fire,10600,47700,1263.48,442948,231548,63600,31,5300,32,other-service,46800,Y
+Minor Damage,board-games,Single Vehicle Collision,Side Collision,WV,Other,4840,33880,1006.99,458936,531160,43560,465,4840,63,sales,0,N
+Total Loss,exercise,Single Vehicle Collision,Front Collision,WV,Police,6760,40560,1328.26,613921,889003,60840,126,13520,31,sales,42300,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Side Collision,WV,Police,11360,45440,1250.08,474598,193213,68160,407,11360,55,tech-support,0,N
+Minor Damage,video-games,Parked Car,?,SC,,470,3760,982.7,440865,557218,5170,101,940,27,transport-moving,30800,N
+Total Loss,reading,Single Vehicle Collision,Side Collision,NC,Ambulance,5770,46160,1412.06,450947,125591,57700,187,5770,37,protective-serv,60100,N
+Total Loss,sleeping,Multi-vehicle Collision,Front Collision,VA,Other,14920,59680,1066.7,473370,227244,89520,252,14920,46,handlers-cleaners,0,N
+Minor Damage,reading,Vehicle Theft,?,WV,,840,3360,1585.54,463153,791425,4620,229,420,43,protective-serv,42600,N
+Minor Damage,yachting,Single Vehicle Collision,Rear Collision,WV,Ambulance,5020,35140,1416.08,612546,354455,45180,246,5020,39,craft-repair,0,N
+Total Loss,movies,Single Vehicle Collision,Side Collision,NY,Other,4510,31570,1246.03,442919,601042,45100,190,9020,38,craft-repair,61900,N
+Total Loss,golf,Multi-vehicle Collision,Side Collision,SC,Police,15120,52920,1356.64,449352,433663,83160,95,15120,32,machine-op-inspct,67800,N
+Minor Damage,skydiving,Single Vehicle Collision,Rear Collision,WV,Police,15660,54810,1387.7,470104,471938,86130,205,15660,42,priv-house-serv,0,N
+Major Damage,sleeping,Multi-vehicle Collision,Front Collision,NC,Fire,4800,33600,1004.14,459889,564654,48000,41,9600,25,priv-house-serv,35400,N
+Minor Damage,movies,Vehicle Theft,?,VA,Police,600,2100,1107.07,478868,645723,3300,137,600,35,protective-serv,0,N
+Minor Damage,board-games,Multi-vehicle Collision,Rear Collision,NY,Ambulance,5720,40040,1429.96,463307,573572,57200,194,11440,34,protective-serv,67800,N
+Trivial Damage,bungie-jumping,Vehicle Theft,?,VA,Police,690,5520,1074.99,453620,437960,7590,128,1380,35,adm-clerical,0,N
+Total Loss,board-games,Single Vehicle Collision,Rear Collision,VA,Police,12320,55440,1007.0,466238,649800,80080,150,12320,37,transport-moving,30400,N
+Minor Damage,skydiving,Vehicle Theft,?,WV,Police,480,3360,1052.85,607697,544225,4800,104,960,30,protective-serv,0,N
+Minor Damage,cross-fit,Vehicle Theft,?,WV,Police,780,2730,1200.33,477631,390256,3900,163,390,37,craft-repair,0,Y
+Minor Damage,camping,Single Vehicle Collision,Front Collision,SC,Other,9040,72320,1343.0,443625,488597,90400,80,9040,26,handlers-cleaners,64600,N
+Minor Damage,kayaking,Multi-vehicle Collision,Rear Collision,NC,Other,12580,44030,1441.6,472223,133889,62900,65,6290,29,sales,0,N
+Major Damage,base-jumping,Single Vehicle Collision,Rear Collision,NC,Police,10840,37940,1433.42,608328,931901,54200,179,5420,32,protective-serv,53800,Y
+Major Damage,paintball,Multi-vehicle Collision,Side Collision,NY,Police,10360,36260,1368.57,474860,769475,51800,372,5180,50,tech-support,0,N
+Trivial Damage,movies,Vehicle Theft,?,SC,Police,1200,4800,862.19,606858,844062,6600,398,600,55,adm-clerical,69400,N
+Total Loss,movies,Single Vehicle Collision,Side Collision,SC,Fire,6740,53920,871.46,477938,844129,74140,213,13480,35,tech-support,58500,N
+Total Loss,paintball,Single Vehicle Collision,Front Collision,VA,Fire,6780,47460,1863.04,462698,732169,67800,79,13560,25,priv-house-serv,53400,N
+Major Damage,exercise,Single Vehicle Collision,Rear Collision,NY,Fire,11080,38780,1181.64,454552,221854,55400,232,5540,44,other-service,25800,Y
+Major Damage,reading,Single Vehicle Collision,Rear Collision,SC,Ambulance,4910,34370,1060.74,471585,776950,49100,230,9820,37,tech-support,0,Y
+Major Damage,video-games,Multi-vehicle Collision,Side Collision,SC,Police,7560,75600,951.56,455426,291006,98280,234,15120,41,transport-moving,59400,Y
+Total Loss,polo,Multi-vehicle Collision,Rear Collision,VA,Fire,12100,48400,1533.71,469856,845751,66550,240,6050,40,protective-serv,0,N
+Major Damage,board-games,Multi-vehicle Collision,Side Collision,WV,Fire,7040,49280,1200.09,454191,889764,70400,143,14080,33,craft-repair,38400,N
+Major Damage,board-games,Multi-vehicle Collision,Side Collision,WV,Ambulance,8880,39960,1093.83,468454,929306,53280,266,4440,42,adm-clerical,0,Y
+Total Loss,golf,Single Vehicle Collision,Front Collision,NY,Other,15380,53830,988.93,614187,515457,84590,89,15380,32,craft-repair,27600,N
+Total Loss,base-jumping,Single Vehicle Collision,Rear Collision,NY,Other,9920,34720,1331.94,433974,556270,54560,229,9920,37,farming-fishing,0,N
+Minor Damage,camping,Single Vehicle Collision,Rear Collision,OH,Ambulance,7470,67230,1361.45,604833,908935,82170,245,7470,40,handlers-cleaners,39300,N
+Total Loss,bungie-jumping,Multi-vehicle Collision,Front Collision,NY,Police,12220,42770,1188.51,447469,525862,61100,50,6110,44,handlers-cleaners,0,N
+Minor Damage,cross-fit,Multi-vehicle Collision,Front Collision,NY,Police,10380,36330,1101.83,451529,490514,51900,230,5190,43,exec-managerial,28900,Y
+Trivial Damage,hiking,Parked Car,?,SC,Police,430,2580,840.95,431202,774895,3440,17,430,39,adm-clerical,32500,N
+Total Loss,cross-fit,Single Vehicle Collision,Side Collision,WV,Ambulance,11420,34260,1503.21,448190,974522,51390,163,5710,36,other-service,55700,N
+Major Damage,base-jumping,Single Vehicle Collision,Side Collision,WV,Other,7690,61520,1722.5,453713,669809,76900,29,7690,32,other-service,0,N
+Minor Damage,kayaking,Single Vehicle Collision,Rear Collision,WV,Other,7700,53900,944.03,440153,182953,77000,232,15400,42,handlers-cleaners,0,Y
+Major Damage,yachting,Single Vehicle Collision,Side Collision,NC,Other,9280,41760,1453.61,619570,836349,60320,235,9280,39,craft-repair,0,Y
+Minor Damage,dancing,Single Vehicle Collision,Rear Collision,NY,Fire,6070,42490,1672.88,478947,591269,60700,295,12140,46,armed-forces,0,N
+Total Loss,movies,Multi-vehicle Collision,Rear Collision,SC,Police,0,47360,1248.05,443550,550127,53280,22,5920,21,exec-managerial,37500,N
+Minor Damage,movies,Single Vehicle Collision,Rear Collision,NY,Fire,3810,26670,1564.43,477644,663190,34290,286,3810,43,prof-specialty,77500,N
+Total Loss,basketball,Single Vehicle Collision,Rear Collision,WV,Other,5220,41760,1280.88,433981,109392,46980,257,0,44,other-service,59400,N
+Major Damage,camping,Multi-vehicle Collision,Front Collision,OH,Fire,7340,25690,722.66,433696,215278,36700,94,3670,26,exec-managerial,50300,N
+Total Loss,camping,Multi-vehicle Collision,Side Collision,OH,Other,6020,48160,1235.14,443567,674570,60200,124,6020,28,exec-managerial,0,N
+Minor Damage,bungie-jumping,Parked Car,?,SC,,1080,4860,1347.04,430665,681486,6480,141,540,30,sales,0,N
+Minor Damage,paintball,Single Vehicle Collision,Front Collision,NC,Fire,8720,61040,1310.8,431289,941851,87200,3,17440,38,craft-repair,0,N
+Major Damage,sleeping,Single Vehicle Collision,Rear Collision,SC,Fire,18080,72320,1436.79,608177,186934,108480,285,18080,41,prof-specialty,70900,N
+Minor Damage,bungie-jumping,Multi-vehicle Collision,Side Collision,NC,Police,7500,52500,1383.49,442797,918516,67500,130,7500,34,armed-forces,35100,N
+Major Damage,base-jumping,Single Vehicle Collision,Rear Collision,NY,Other,5220,36540,1356.92,441714,533940,46980,458,5220,62,handlers-cleaners,0,N
+Minor Damage,kayaking,Parked Car,?,WV,Police,920,3680,766.19,612260,556080,5060,456,460,60,sales,0,N

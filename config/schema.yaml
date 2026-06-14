@@ -1,0 +1,67 @@
+columns:
+  - incident_severity: category
+  - insured_hobbies: category
+  - incident_type: category
+  - collision_type: category
+  - incident_state: category
+  - authorities_contacted: category
+  - property_claim: int
+  - vehicle_claim: int
+  - policy_annual_premium: float
+  - insured_zip: int
+  - policy_number: int
+  - total_claim_amount: int
+  - months_as_customer: int
+  - injury_claim: int
+  - age: int
+  - insured_occupation: category
+  - capital-gains: int
+  - fraud_reported: category
+
+
+
+
+numerical_columns:
+  - property_claim
+  - vehicle_claim
+  - policy_annual_premium
+  - insured_zip
+  - policy_number
+  - total_claim_amount
+  - months_as_customer
+  - injury_claim
+  - age
+  - capital-gains
+
+
+
+categorical_columns:
+  - incident_severity
+  - insured_hobbies
+  - incident_type
+  - collision_type
+  - incident_state
+  - authorities_contacted
+  - insured_occupation
+  - fraud_reported
+
+
+
+num_feature:
+  - property_claim
+  - vehicle_claim
+  - policy_annual_premium
+  - insured_zip
+  - policy_number
+  - total_claim_amount
+  - months_as_customer
+  - injury_claim
+  - age
+  - capital-gains
+
+  
+
+drop_columns:
+  - _c39
+  - _id
+  

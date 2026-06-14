@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insurance Fraud Prediction</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a class="nav-brand" href="#">
+      <div class="nav-logo-mark">
+        <svg viewBox="0 0 24 24"><path d="M12 2L3 7v5c0 5.25 3.75 10.15 9 11.35C17.25 22.15 21 17.25 21 12V7z"/></svg>
+      </div>
+      <span class="nav-brand-name">Insure<span>Guard</span></span>
+    </a>
+    <div class="nav-links">
+      <a href="#" class="active">Dashboard</a>
+      <a href="#">Claims</a>
+      <a href="#">Reports</a>
+      <a href="#">Settings</a>
+    </div>
+    <span class="nav-badge">Analyst</span>
+  </div>
+</nav>
+
+<div class="page">
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-text">
+      <div class="hero-eyebrow">AI Fraud Detection · Live</div>
+      <h1>Detect <em>fraud risks</em><br>before they escalate</h1>
+      <p>Submit claim details for an instant ML-powered risk assessment. Results in under a second.</p>
+    </div>
+
+  </div>
+
+
+    <!-- Main Content -->
+    <div class="main-wrapper">
+        <div class="container">
+            <div class="header">
+                <h1>Insurance Fraud Detection</h1>
+            </div>
+
+            <div class="content">
+                <form method="post" action="/">
+                    <!-- Policy Information Section -->
+                    <div class="form-section">
+                        <div class="section-title">Policy Information</div>
+                        
+                        <div class="grid-3">
+                            <div class="form-group">
+                                <label for="policy_number">Policy Number</label>
+                                <input type="number" id="policy_number" name="policy_number" placeholder="e.g., 123456" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="policy_annual_premium">Annual Premium ($)</label>
+                                <input type="number" step="0.01" id="policy_annual_premium" name="policy_annual_premium" placeholder="0.00" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="months_as_customer">Months as Customer</label>
+                                <input type="number" id="months_as_customer" name="months_as_customer" placeholder="0" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Insured Information Section -->
+                    <div class="form-section">
+                        <div class="section-title">Insured Information</div>
+                        
+                        <div class="grid-3">
+                            <div class="form-group">
+                                <label for="age">Age</label>
+                                <input type="number" id="age" name="age" placeholder="e.g., 35" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="insured_zip">ZIP Code</label>
+                                <input type="number" id="insured_zip" name="insured_zip" placeholder="e.g., 94102" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="capital-gains">Capital Gains ($)</label>
+                                <input type="number" id="capital-gains" name="capital-gains" placeholder="0" required>
+                            </div>
+                        </div>
+
+                        <div class="grid-2">
+                            <div class="form-group">
+                                <label for="insured_occupation">Occupation</label>
+                                <select id="insured_occupation" name="insured_occupation" required>
+                                    <option value="">Select occupation</option>
+                                    <option value="tech-support">Tech Support</option>
+                                    <option value="farming-fishing">Farming/Fishing</option>
+                                    <option value="protective-service">Protective Service</option>
+                                    <option value="sales">Sales</option>
+                                    <option value="exec-managerial">Executive/Managerial</option>
+                                    <option value="prof-specialty">Professional Specialty</option>
+                                    <option value="machine-op-inspct">Machine Operator</option>
+                                    <option value="adm-clerical">Administrative/Clerical</option>
+                                    <option value="craft-repair">Craft/Repair</option>
+                                    <option value="transport-moving">Transport/Moving</option>
+                                    <option value="handlers-cleaners">Handlers/Cleaners</option>
+                                    <option value="priv-house-serv">Private House Service</option>
+                                    <option value="other-service">Other Service</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="insured_hobbies">Hobbies</label>
+                                <select id="insured_hobbies" name="insured_hobbies" required>
+                                    <option value="">Select hobby</option>
+                                    <option value="chess">Chess</option>
+                                    <option value="cross-fit">Cross-fit</option>
+                                    <option value="reading">Reading</option>
+                                    <option value="sleeping">Sleeping</option>
+                                    <option value="basketball">Basketball</option>
+                                    <option value="hiking">Hiking</option>
+                                    <option value="yachting">Yachting</option>
+                                    <option value="board-games">Board Games</option>
+                                    <option value="camping">Camping</option>
+                                    <option value="dancing">Dancing</option>
+                                    <option value="exercise">Exercise</option>
+                                    <option value="movies">Movies</option>
+                                    <option value="polo">Polo</option>
+                                    <option value="video-games">Video Games</option>
+                                    <option value="golf">Golf</option>
+                                    <option value="kayaking">Kayaking</option>
+                                    <option value="paintball">Paintball</option>
+                                    <option value="bungie-jumping">Bungie Jumping</option>
+                                    <option value="base-jumping">Base Jumping</option>
+                                    <option value="skydiving">Skydiving</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Incident Information Section -->
+                    <div class="form-section">
+                        <div class="section-title">Incident Information</div>
+                        
+                        <div class="grid-2">
+                            <div class="form-group">
+                                <label for="incident_type">Incident Type</label>
+                                <select id="incident_type" name="incident_type" required>
+                                    <option value="">Select type</option>
+                                    <option value="Single Vehicle Collision">Single Vehicle Collision</option>
+                                    <option value="Multi-vehicle Collision">Multi-vehicle Collision</option>
+                                    <option value="Vehicle Theft">Vehicle Theft</option>
+                                    <option value="Parked Car">Parked Car</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="collision_type">Collision Type</label>
+                                <select id="collision_type" name="collision_type" required>
+                                    <option value="">Select type</option>
+                                    <option value="Front Collision">Front Collision</option>
+                                    <option value="Rear Collision">Rear Collision</option>
+                                    <option value="Side Collision">Side Collision</option>
+                                    <option value="?">Unknown</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="grid-2">
+                            <div class="form-group">
+                                <label for="incident_severity">Incident Severity</label>
+                                <select id="incident_severity" name="incident_severity" required>
+                                    <option value="">Select severity</option>
+                                    <option value="Minor Damage">Minor Damage</option>
+                                    <option value="Major Damage">Major Damage</option>
+                                    <option value="Total Loss">Total Loss</option>
+                                    <option value="Trivial Damage">Trivial Damage</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="incident_state">Incident State</label>
+                                <select id="incident_state" name="incident_state" required>
+                                    <option value="">Select state</option>
+                                    <option value="SC">South Carolina</option>
+                                    <option value="VA">Virginia</option>
+                                    <option value="WV">West Virginia</option>
+                                    <option value="NC">North Carolina</option>
+                                    <option value="NY">New York</option>
+                                    <option value="OH">Ohio</option>
+                                    <option value="PA">Pennsylvania</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="authorities_contacted">Authorities Contacted</label>
+                            <select id="authorities_contacted" name="authorities_contacted" required>
+                                <option value="">Select authority</option>
+                                <option value="Police">Police</option>
+                                <option value="Fire">Fire</option>
+                                <option value="Ambulance">Ambulance</option>
+                                <option value="Other">Other</option>
+                                <option value="None">None</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Claims Information Section -->
+                    <div class="form-section">
+                        <div class="section-title">Claims Information</div>
+                        
+                        <div class="grid-2">
+                            <div class="form-group">
+                                <label for="property_claim">Property Claim ($)</label>
+                                <input type="number" id="property_claim" name="property_claim" placeholder="0" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="vehicle_claim">Vehicle Claim ($)</label>
+                                <input type="number" id="vehicle_claim" name="vehicle_claim" placeholder="0" required>
+                            </div>
+                        </div>
+
+                        <div class="grid-2">
+                            <div class="form-group">
+                                <label for="injury_claim">Injury Claim ($)</label>
+                                <input type="number" id="injury_claim" name="injury_claim" placeholder="0" required>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="total_claim_amount">Total Claim Amount ($)</label>
+                                <input type="number" id="total_claim_amount" name="total_claim_amount" placeholder="0" required>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="button-group">
+                        <button type="submit" class="btn-primary">
+                            <span>Predict Fraud</span>
+                        </button>
+                    </div>
+                </form>
+
+                {% if context %}
+                    <div class="result">
+                        <h2>{{ context }}</h2>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
