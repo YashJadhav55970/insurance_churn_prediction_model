@@ -58,7 +58,7 @@ class MongoDBClient:
             self.database = self.client[database_name]  # Connect to the specified database
             self.database_name = database_name
             logging.info("MongoDB connection successful.")
-            
+                
         except Exception as e:
             # Raise a custom exception with traceback details if connection fails
             raise MyException(e, sys)
