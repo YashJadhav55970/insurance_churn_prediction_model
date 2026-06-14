@@ -113,8 +113,9 @@ class DataForm:
 @app.get("/", tags=["authentication"])
 async def index(request: Request):
     return templates.TemplateResponse(
-        "index.html", {"request": request, "context": "Rendering"}
-    )
+    request=request, name="index.html", context={"context": "Rendering"}
+)
+
 
 
 
@@ -210,8 +211,7 @@ async def predictionRouteClient(request: Request):
 
         # Render the same HTML page with the prediction result
         return templates.TemplateResponse(
-            "index.html",
-            {"request": request, "context": status},
+            request=request, name="index.html", context={"context": status}
         )
 
     except Exception as e:
@@ -219,8 +219,7 @@ async def predictionRouteClient(request: Request):
         error_msg = traceback.format_exc()
         print(f"Error in prediction: {error_msg}")
         return templates.TemplateResponse(
-            "index.html",
-            {"request": request, "context": f"Error: {str(e)}"},
+            request=request, name="index.html", context={"context": f"Error: {str(e)}"}
         )
 
 
